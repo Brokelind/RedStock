@@ -7,7 +7,7 @@ from id_info import*
 
 import csv
 
-number_of_commments_to_include = 4
+number_of_commments_to_include = 2
 
 reddit = praw.Reddit(client_id = client_id,
 client_secret = client_secret,
@@ -35,7 +35,7 @@ post_comments = []
 
 #https://praw.readthedocs.io/en/latest/code_overview/models/submission.html
 #hot new rising top
-for submission in reddit.subreddit('stocks').top(limit=10):
+for submission in reddit.subreddit('stocks').hot(limit=2):
     
     if any(title_word in stock_name_search for title_word in submission.title.split()):
         print(submission.title, "stock mentioned!")
@@ -52,19 +52,24 @@ for submission in reddit.subreddit('stocks').top(limit=10):
         for comment in submission.comments:
             submission.comments.replace_more()
             if any(title_word in stock_name_search for title_word in comment.body.split()):
-                #post_comments.append(comment.body)
+                
                 headlines.add(comment.body)
                 upvote_amount.append(comment.score)
-                upvote_ratio.append(False)
+                upvote_ratio.append("Comment")
                 creation_date.append(comment.created_utc)
                 i+=1
             if i > number_of_commments_to_include:
                 break
                
-print(post_comments)
-
 
 df_titles = pd.DataFrame(headlines)
+
+full_dict = {'title': headlines, 'upvote_amount': upvote_amount,
+ 'upvote_ratio': upvote_ratio, 'creation_date':creation_date}
+
+df_full = pd.DataFrame(full_dict)
+df_full.to_csv('input/post_info.csv', encoding="utf-8",
+index=False)
 
 df_titles.to_csv('input/titles.csv', header = False, encoding="utf-8",
 index=False)

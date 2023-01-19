@@ -12,8 +12,6 @@ for line in headlines:
     polarity_results.append(pol_score)
 
 
-#print(results)
-
 df = pd.DataFrame.from_records(polarity_results)
 df.head()
 

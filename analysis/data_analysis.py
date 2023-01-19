@@ -6,6 +6,13 @@ import pandas as pd
 import datetime
 
 
+
+def data_processing(data = "input/title_energy.csv"):
+    pass
+
+
+
+
 control_period = 30 #week days
 
 
@@ -28,7 +35,7 @@ words_in_HL_neg = []
 stock_period_val = {}
 stock_period_date = []
 
-with open('input/Headline_energy.csv') as csvtitles:
+with open('input/title_energy.csv') as csvtitles:
     for line in(csvtitles):
 
         stock_attr = line.split(',')
