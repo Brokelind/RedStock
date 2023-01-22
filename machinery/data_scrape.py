@@ -27,6 +27,7 @@ stock_name_search = stock_fullnames + stock_names
 
 
 headlines = set()
+titles = []
 upvote_amount = []
 upvote_ratio = []
 creation_date = []
@@ -35,12 +36,13 @@ post_comments = []
 
 #https://praw.readthedocs.io/en/latest/code_overview/models/submission.html
 #hot new rising top
-for submission in reddit.subreddit('stocks').hot(limit=2):
+for submission in reddit.subreddit('stocks').hot(limit=20):
     
     if any(title_word in stock_name_search for title_word in submission.title.split()):
         print(submission.title, "stock mentioned!")
 
         headlines.add(submission.title)
+        titles.append(submission.title)
         upvote_amount.append(submission.score)
         upvote_ratio.append(submission.upvote_ratio)
         creation_date.append(submission.created_utc)
@@ -54,6 +56,7 @@ for submission in reddit.subreddit('stocks').hot(limit=2):
             if any(title_word in stock_name_search for title_word in comment.body.split()):
                 
                 headlines.add(comment.body)
+                titles.append(comment.body)
                 upvote_amount.append(comment.score)
                 upvote_ratio.append("Comment")
                 creation_date.append(comment.created_utc)
@@ -64,7 +67,7 @@ for submission in reddit.subreddit('stocks').hot(limit=2):
 
 df_titles = pd.DataFrame(headlines)
 
-full_dict = {'title': headlines, 'upvote_amount': upvote_amount,
+full_dict = {'title': titles, 'upvote_amount': upvote_amount,
  'upvote_ratio': upvote_ratio, 'creation_date':creation_date}
 
 df_full = pd.DataFrame(full_dict)
