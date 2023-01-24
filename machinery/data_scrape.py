@@ -51,14 +51,14 @@ for submission in reddit.subreddit('stocks').hot(limit=20):
         
         submission.comment_sort = "top"
         i = 1
-        for comment in submission.comments:
+        for comment in submission.comments.list():
             submission.comments.replace_more()
             if any(title_word in stock_name_search for title_word in comment.body.split()):
                 
                 headlines.add(comment.body)
                 titles.append(comment.body)
                 upvote_amount.append(comment.score)
-                upvote_ratio.append("Comment")
+                upvote_ratio.append(comment.upvote_ratio)
                 creation_date.append(comment.created_utc)
                 i+=1
             if i > number_of_commments_to_include:

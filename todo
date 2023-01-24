@@ -1,4 +1,4 @@
 1. Fix Y-data. some weird formatting, try ndarray look into the shape X
-2. Somehow use ticker instead of full stock name when reading in data for analysis
-3. Read reddit posts from more than control_period (30) days ago
-4. Add Evaluation function for ML-performance
+2. Somehow use ticker instead of full stock name when reading in data for analysis X
+3. Read reddit posts from more than control_period (30) days ago 
+4. Add Evaluation function for ML-performance X
