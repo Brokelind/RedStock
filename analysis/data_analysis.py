@@ -16,10 +16,12 @@ from matplotlib import pyplot as plt
 from sklearn import svm
 from statsmodels.tsa.arima.model import ARIMA
 #from statsmodels.tsa.statespace.sarimax import SARIMAX
-from keras.models import Sequential
-from keras.layers import LSTM, Dense
+from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error, median_absolute_error, mean_squared_error
+from keras.models import Sequential
+from keras.layers import Dense, LSTM, Conv1D, MaxPooling1D, Dropout, GRU, Flatten
+from keras.wrappers.scikit_learn import KerasRegressor
 
 def XY_mapping(control_period = 30):
 
@@ -102,26 +104,111 @@ def data_processing(data):
 
 X_train, X_test, y_train, y_test = data_processing(data)
 
-def ML_process(X_train, X_test, y_train, y_test, number_of_epochs = 20, batch_size = 10):
-    print(np.shape(X_train), np.shape(y_train),'shape')
 
+def create_LSTM(X_train= X_train.reshape((X_train.shape[0], 1, 7)) ):
+    # Define the LSTM model
+    model = Sequential()
+    model.add(LSTM(128, input_shape=(X_train.shape[1], X_train.shape[2]), return_sequences=True))
+    model.add(Dropout(0.2))
+    model.add(LSTM(64, return_sequences=True))
+    model.add(Dropout(0.2))
+    model.add(LSTM(32))
+    model.add(Dropout(0.2))
+    model.add(Dense(29))
+    model.compile(optimizer='adam', loss='mse')
+    return model
+    
+def optimize_LSTM(X_train, y_train):
+    
+    # Wrap the Keras model inside a KerasRegressor object
+    model_LSTM = KerasRegressor(build_fn=create_LSTM, verbose=0)
+    
+    # Define the hyperparameters to tune
+    param_grid = {'batch_size': [10, 20, 30, 40, 50],
+                  'epochs': [10, 50, 100]}
+    
+    # Use grid search to find the best hyperparameters
+    grid = GridSearchCV(estimator=model_LSTM, param_grid=param_grid, scoring='neg_mean_squared_error')
+    grid_result = grid.fit(X_train, y_train)
+    
+    # Extract the best model
+    best_model = grid_result.best_estimator_
+    print(f"Best Parameters: {grid_result.best_params_}")
+    return best_model
+
+def optimize_CNN(X_train, y_train):
+    # Define the CNN model
+    model_CNN = Sequential()
+    model_CNN.add(Conv1D(filters=64, kernel_size=3, activation='relu', input_shape=(X_train.shape[1], 1)))
+    model_CNN.add(MaxPooling1D(pool_size=2))
+    model_CNN.add(Dropout(0.2))
+    model_CNN.add(Flatten())
+    model_CNN.add(Dense(1))
+    model_CNN.compile(loss='mean_squared_error', optimizer='adam')
+    
+    # Define the hyperparameters to tune
+    param_grid = {'batch_size': [10, 20, 30, 40, 50],
+                  'epochs': [10, 50, 100]}
+    
+    # Use grid search to find the best hyperparameters
+    grid = GridSearchCV(estimator=model_CNN, param_grid=param_grid, scoring='neg_mean_squared_error')
+    grid_result = grid.fit(X_train.reshape((X_train.shape[0], X_train.shape[1], 1)), y_train)
+    
+    # Extract the best model
+    best_model = grid_result.best_estimator_
+    print(f"Best Parameters: {grid_result.best_params_}")
+    return best_model
+
+def optimize_GRU(X_train, y_train):
+    # Define the GRU model
+    model_GRU = Sequential()
+    model_GRU.add(GRU(50, input_shape=(1, X_train.shape[2])))
+    model_GRU.add(Dense(1))
+    model_GRU.compile(loss='mean_squared_error', optimizer='adam')
+    
+    # Define the hyperparameters to tune
+    param_grid = {'batch_size': [10, 20, 30, 40, 50],
+                  'epochs': [10, 50, 100]}
+    
+    # Use grid search to find the best hyperparameters
+    grid = GridSearchCV(estimator=model_GRU, param_grid=param_grid, scoring='neg_mean_squared_error')
+    grid_result = grid.fit(X_train, y_train)
+    
+    # Extract the best model
+    best_model = grid_result.best_estimator_
+    print(f"Best Parameters: {grid_result.best_params_}")
+    return best_model
+          
+          
+
+def ML_process(X_train, X_test, y_train, y_test, number_of_epochs = 20, batch_size = 10):
+  
  
-    X_train_LSTM = X_train.reshape((X_train.shape[0], 1, 7))
-    X_test_LSTM = X_test.reshape((X_test.shape[0], 1, 7))
- 
-    model_LSTM = Sequential()
-    model_LSTM.add(LSTM(50, input_shape=(1, 7)))
-    model_LSTM.add(Dense(29))
-    model_LSTM.compile(loss='mean_squared_error', optimizer='adam')
-    model_LSTM.fit(X_train_LSTM, y_train, epochs=100, verbose=0)
+    # Reshape the input data for DNN
+    X_train_DNN = X_train.reshape((X_train.shape[0], 1, 7))
+    X_test_DNN = X_test.reshape((X_test.shape[0], 1, 7))
+    print(X_train_DNN.shape)
+    
+    model_LSTM = optimize_LSTM(X_train_DNN, y_train)
+    
+    '''model_LSTM = optimize_LSTM(X_train_DNN, y_train)
+    model_CNN = optimize_CNN(X_train, y_train)
+    model_GRU = optimize_GRU(X_train_DNN, y_train)
+    
+    
+    # Train and fit the models
+    models = [model_LSTM, model_CNN, model_GRU]
+    model_names= ["LSTM", "CNN", "GRU", "Random Forest Regressor", "Linear Regression"]
+    y_pred = [model_LSTM.predict(X_test_DNN), model_CNN.predict(X_test_DNN), model_GRU.predict(X_test_DNN)]
+    '''
+    model_names= ["LSTM", "Random Forest Regressor", "Linear Regression"]
+    y_pred = [model_LSTM.predict(X_test_DNN)]
+    
     model_RFregr = RandomForestRegressor().fit(X_train, y_train)
     #model_ARIMA = ARIMA(X_train, order = (1,1,0)).fit(X_train, y_train)
     model_linear = LinearRegression().fit(X_train, y_train)
-
-
     models = [model_RFregr,  model_linear]
-    model_names= [ "LSTM Sequential" , "Random Forest Regressor", "Linear Regression"]
-    y_pred = [model_LSTM.predict(X_test_LSTM)]
+    
     for predictor in models:
         y_pred.append(predictor.predict(X_test))
      
