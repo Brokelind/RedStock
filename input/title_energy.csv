@@ -1,42 +1,710 @@
 ,title,upvote_amount,upvote_ratio,creation_date,neu,pos,neg,compound
-0,"Brokerage account:
-
-69% Vanguard FTSE All-World ETF ( +1% on invested capital).
-
-31% GOOGL (+7% on invested capital).
-
-A bit nervous about GOOGL. Might sell some shares and buy more ETF.",14,Comment,1659891011.0,0.863,0.07,0.067,0.0258
-1,"Overall: 
-
-30% VOO 30% CCI 40% Individual Stocks 
-
-Individual Picks: 
-AAPL
-MSFT
-SBUX
-NFLX
-SHOP
-NKE
-FB
-GOOG
-NVDA",11,Comment,1659891011.0,1.0,0.0,0.0,0.0
-2,"What a surprise, doomers wrong about NKE implosion and market still looking strong.",9,Comment,1659891011.0,0.514,0.309,0.177,0.3182
-3,So glad I bought into DIS & AMZN when they were like $80 over Xmas,4,Comment,1659891011.0,0.655,0.345,0.0,0.6997
-4,"Amazon will certainly need another round with at least  10% layoffs for sure. Amazon is barely profitable and they only cut 3% after a huge hiring spree since mid 2020 and revenue growth has slowed to single digits. Google, Microsoft, meta are all more profitable and laid off more than Amazon in terms of %.",1,Comment,1659240318.0,0.667,0.302,0.032,0.9302
-5,Netflix misses earnings by 73%… what now?,2450,0.89,1659163690.0,0.759,0.0,0.241,-0.2263
-6,Considering buying Pfizer,11,0.68,1659891011.0,1.0,0.0,0.0,0.0
-7,"Also that 61% growth you have there includes their China brands for sure, in the US they hardly grew. Buick actually declined heavily.
-
-Their China mini EV sells extremely well, but GM only makes $14 per sale… they could sell millions and it adds nothing but market share",9,Comment,1659891011.0,0.855,0.1,0.045,0.2058
-8,"Meanwhile they still can’t make or sell EVs at scale, won’t be able to make them profitable until at least 2025, have a pile of debt in car loans that risks default heading into recession, can’t scale an EV production line to save their lives literally… 
-
-If you’re buying GM stock for the longterm rn you deserve what’s to come",5,Comment,1659891011.0,0.8,0.09,0.11,-0.0772
-9,"If you can afford to, do it immediately.
-
-If you're concerned about the market crashing, you could always deposit money, initially invest it in a ultra short T bill fund to get ~4% interest, and then DCA into your desired allocation over the course of the year.
-
-Also if you have a 401k/403b, that is effectively DCA every month, so you still can benefit if the market crashes.",6,Comment,1659891011.0,0.847,0.153,0.0,0.875
-10,"The earlier the better, make it a habit to invest money you’d otherwise spend on things you don’t really need in tandem with building an emergency fund. Go to r/dividends to get an understanding on long term compound investing. 
-
-Another thing I did when I was getting started, since I was around your age and didn’t have much money to invest, was to download a stock tracker app and just simulated like I had more money invested. read up on a bunch of companies and do some DD and you’ll pretty quickly realize trends, sentiments in the market, and it’ll prepare you for risk management and give you a taste of the psychological side of trading and investing. I found it much easier to start trading this way :)",3,Comment,1654159124.0,0.855,0.109,0.036,0.8658
-11,$SAVA (Cassava Sciences) Alzheimer's Drug Full DD,0,0.4,1654241632.0,1.0,0.0,0.0,0.0
+0,"Melvin Capital, hedge fund torpedoed by the GameStop frenzy, is shutting down.",20839,0.94,1652912886.0,0.827,0.0,0.173,-0.3182
+1,"Elon Musk delayed his required disclosure of more than 5% of Twitter as he continued to accumulate, making him $156 million. The fine will likely be in the hundreds of thousands.",17172,0.94,1649373742.0,0.887,0.055,0.058,-0.0258
+2,The best thing that can happen in your 20s and 30s is a stock market crash,9647,0.85,1651778777.0,0.653,0.211,0.136,0.3612
+3,GameStop Launches Wallet for Cryptocurrencies and NFTs,7869,0.8,1653311380.0,1.0,0.0,0.0,0.0
+4,"Costco has no plans to change the price of its $1.50 hot dog-and-soda combo, despite record high inflation. Membership fee to remain flat.",7145,0.96,1664047110.0,0.909,0.0,0.091,-0.296
+5,Florida House passes bill to dissolve Disney’s special self-governing status,7031,0.95,1650577059.0,0.769,0.231,0.0,0.4019
+6,Elon Musk To Proceed With Twitter Deal At $54.20,6697,0.91,1664900223.0,1.0,0.0,0.0,0.0
+7,The personal savings of Americans have plunged to a shockingly low $626 billion — from $4.85 trillion in 2020.,6536,0.95,1669432602.0,0.798,0.0,0.202,-0.4215
+8,"Elon Musk says Tesla needs to cut staff by 10%, pauses all hiring",6303,0.92,1654240724.0,0.851,0.0,0.149,-0.2732
+9,"GDP fell 0.9% in the second quarter, the second straight decline and a strong recession signal",6224,0.93,1659011702.0,0.6,0.26,0.14,0.34
+10,Elon Musk offers to buy Twitter for $54.20 per share,6134,0.87,1649931972.0,0.804,0.196,0.0,0.296
+11,Tesla faces a $7.5 billion ultimatum: Open up its charging network to rivals or be locked out...,5823,0.94,1676292293.0,1.0,0.0,0.0,0.0
+12,There goes the neighborhood. Reddit aims for IPO this year,5711,0.93,1676462976.0,1.0,0.0,0.0,0.0
+13,Bill Gates has half a billion dollar short position against Tesla,5373,0.92,1650717524.0,1.0,0.0,0.0,0.0
+14,I believe WSJ is no longer a reliable source for getting accurate information to develop investment strategies.,5337,0.92,1658410936.0,0.864,0.0,0.136,-0.296
+15,Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week,5214,0.96,1667768276.0,1.0,0.0,0.0,0.0
+16,"If Japan was an economic powerhouse and their stock market crashed and STILL hasn’t recovered decades later, how is the US different?",5174,0.89,1654368066.0,1.0,0.0,0.0,0.0
+17,Elon Musk notifies Twitter he is terminating deal,5038,0.93,1657315826.0,1.0,0.0,0.0,0.0
+18,AMZN crashes -18% after hours with Q3 earnings release,5020,0.95,1666901417.0,1.0,0.0,0.0,0.0
+19,Convince me why I shouldn't believe the US stock market is rigged AND that my trading platform isn't using my data adversely against me!,4725,0.77,1669739397.0,0.752,0.075,0.173,-0.3802
+20,The Fed has more money on its balance sheet (8.9 trillion) then the total value of all 401ks in the United States (7.3 trillion as of 9/21).,4665,0.92,1649257504.0,0.828,0.172,0.0,0.6369
+21,Elon Musk’s Ultimatum to Tesla Execs: Return to the Office or Get Out,4568,0.9,1654118137.0,1.0,0.0,0.0,0.0
+22,Citigroup admits causing yesterday's flash crash,4493,0.97,1651572955.0,0.449,0.247,0.303,-0.128
+23,"Silicon Valley Bank is shut down by regulators, FDIC to protect insured deposits",4488,0.95,1678467346.0,0.822,0.178,0.0,0.3818
+24,Bed Bath & Beyond CFO plunges to death at New York's Jenga tower days after company says it would close 150 stores and cut jobs,4393,0.94,1662304485.0,0.786,0.0,0.214,-0.7184
+25,Elon Musk Sells Nearly $7 Billion Worth of Tesla Stock; just months earlier he planned no further Tesla stock sales,4202,0.95,1660096741.0,0.814,0.086,0.1,-0.0772
+26,Inflation comes in hot. Year over year changes is up 8.3%. Month on month change at .1%. Futures fall.,4130,0.93,1663072784.0,1.0,0.0,0.0,0.0
+27,"AI Wars: Google stock tumbles -5% premarket as Bard AI gives wrong answer at launch event, Microsoft to incorporate ChatGPT into Bing",4127,0.95,1675865751.0,0.749,0.0,0.251,-0.7717
+28,My 5yo daughter’s UGMA account is beating my own.,4121,0.93,1658512713.0,0.727,0.0,0.273,-0.4588
+29,Netflix (NFLX) reported an unexpected decline in first-quarter net subscribers,4103,0.95,1650398955.0,1.0,0.0,0.0,0.0
+30,Elon Musk Says Twitter Bid Can’t Move Forward Without More Clarity on Fake Accounts,4093,0.89,1652776613.0,0.673,0.0,0.327,-0.7039
+31,Tesla hit $694 today. The first time below $700 since August 2021,4061,0.86,1652972272.0,1.0,0.0,0.0,0.0
+32,"USD Inflation surges to 8.5% on an annual basis, highest since 1981 (according to newly released CPI Report)",4026,0.96,1649766861.0,1.0,0.0,0.0,0.0
+33,Trading halted for multiple US banks at open,4007,0.94,1678718229.0,1.0,0.0,0.0,0.0
+34,Reminder: Federal Reserve policymakers were actively trading stocks in 2020-2021 before selling in September-October 2021,3947,0.97,1655142202.0,0.859,0.141,0.0,0.3182
+35,Beyond Meat cuts 19% of workers including COO accused of biting man's nose in road rage incident; stock crashes,3882,0.96,1666013103.0,0.667,0.0,0.333,-0.7906
+36,Twitter accepts Elon Musk’s buyout deal,3859,0.91,1650912775.0,0.685,0.315,0.0,0.3182
+37,Was the TWTR bid by Elon just a way to hide a massive sale of TSLA Stock?,3836,0.88,1657650514.0,0.892,0.0,0.108,-0.1779
+38,London no longer largest European stock market - Loses crown to Paris,3842,0.95,1668427269.0,0.667,0.0,0.333,-0.5423
+39,Cannabis bill passed the house 220-204,3794,0.94,1648833534.0,1.0,0.0,0.0,0.0
+40,"Twitter just hired the ‘92 dream team of Delaware litigation, Savitt and Strine from WLRK.",3682,0.93,1657495706.0,0.774,0.119,0.107,0.0516
+41,Unsealed FBI docs reveal a flurry of calls and stock trades by Sen. Burr in early 2020,3624,0.98,1662530317.0,1.0,0.0,0.0,0.0
+42,LPT: Don’t listen to Reddit for investing advice,3599,0.9,1670837726.0,1.0,0.0,0.0,0.0
+43,"META to layoff 11,000 employees and freeze hiring with immediate effect",3581,0.96,1667992168.0,0.893,0.107,0.0,0.0516
+44,Friendly reminder: not everyone here is 20-30 years old and can ride the wave. People who are in retirement age should consider going cash.,3588,0.85,1652629765.0,0.878,0.122,0.0,0.4939
+45,Can someone explain why the stock market’s pumped since the worse than expected 9.1% inflation report?,3519,0.9,1657899153.0,0.829,0.0,0.171,-0.4767
+46,Anyone else feel the recent rally is a fake out?,3367,0.83,1660391495.0,0.721,0.0,0.279,-0.4767
+47,Elon Musk sells another huge chunk of Tesla shares,3334,0.94,1671074451.0,0.609,0.391,0.0,0.5423
+48,Elon Musk says he's 'open to the idea' of buying Silicon Valley Bank,3261,0.82,1678544468.0,1.0,0.0,0.0,0.0
+49,"Adidas to End Kanye West Partnership After Controversies; Adidas: was “one of the most successful collaborations in our industry's history""",3179,0.93,1666690015.0,0.823,0.177,0.0,0.624
+50,Anyone else think -29% on NFLX is a bit overdone?!?,3179,0.82,1650460429.0,1.0,0.0,0.0,0.0
+51,"Dow drops 1,100 points for its biggest decline since 2020 as the sell-off this year on Wall Street intensifies",3136,0.95,1652904245.0,1.0,0.0,0.0,0.0
+52,"""LOL Why Are You Getting Your Advice from Reddit?""",3134,0.91,1652025841.0,0.694,0.306,0.0,0.5473
+53,Circle K signs deal with Green Thumb Industries to sell weed at gas stations beginning next year,3062,0.96,1666179533.0,1.0,0.0,0.0,0.0
+54,"If Reddit does IPO, stay the hell away from the stock",3057,0.94,1678241846.0,0.685,0.0,0.315,-0.6808
+55,"Cathie Wood of Ark Invest just sold nearly 1.41 million shares of Coinbase $COIN, at near all-time lows of $53",3054,0.95,1658885694.0,0.818,0.1,0.082,0.1027
+56,Elon Musk tells Twitter staff he sold Tesla stock to save the social network,3035,0.95,1668136285.0,0.802,0.198,0.0,0.4939
+57,Elon Musk Says Bill Gates Has ‘Multi-Billion Dollar’ Tesla Short Position,3014,0.87,1653706877.0,1.0,0.0,0.0,0.0
+58,"Just a reminder to all young, long term investors. You do NOT need a financial advisor. They just want your $",2995,0.89,1660715021.0,0.929,0.071,0.0,0.0772
+59,Meta has been fined $402 million by the Irish Data Protection Commission for its handling of children’s privacy settings on Instagram,2959,0.98,1662485102.0,1.0,0.0,0.0,0.0
+60,JPMorgan Chase CEO Jamie Dimon says ‘brace yourself’ for an economic hurricane caused by the Fed,2958,0.91,1654094485.0,1.0,0.0,0.0,0.0
+61,Breaking: SVB depositors to have access to -all- money on Monday; Fed announces new emergency bank term funding program,2898,0.93,1678659665.0,0.874,0.0,0.126,-0.3818
+62,Three More Senators Violated the STOCK Act,2886,0.98,1653944170.0,0.62,0.0,0.38,-0.5688
+63,White House considering sending gas rebate cards to Americans: report,2826,0.86,1655484232.0,1.0,0.0,0.0,0.0
+64,Warren slams Jerome Powell over interest rate comments: 'I'm very worried that the Fed is going to tip this economy into recession',2814,0.88,1661741499.0,0.696,0.11,0.194,-0.3167
+65,Elon Musk Sued by Investor for Delay in Disclosing His Twitter Stake,2804,0.94,1649858623.0,0.827,0.0,0.173,-0.3182
+66,Silicon Valley Bank Collapse Explained in under 400 words.,2754,0.96,1678593098.0,0.714,0.0,0.286,-0.4939
+67,"Tesla video promoting self driving was staged, engineer testifies",2694,0.91,1674047229.0,0.762,0.238,0.0,0.3612
+68,High-Frequency Trading (HFT) explained - The war between man and machine that extracts $billions from the market,2681,0.96,1654515648.0,0.794,0.0,0.206,-0.5994
+69,Russia Defaults on Foreign Debt for First Time Since 1918,2672,0.95,1656286887.0,0.783,0.0,0.217,-0.3612
+70,Markets brace for 100-point Fed rate hike as inflation roars to new high,2603,0.96,1655208281.0,1.0,0.0,0.0,0.0
+71,Fed approves 0.75-point hike to take rates to highest since 2008 and hints at change in policy ahead,2576,0.95,1667412295.0,0.863,0.137,0.0,0.4019
+72,USA Consumer Price Index for June 2022 year-on-year is 9.1%,2567,0.95,1657715430.0,1.0,0.0,0.0,0.0
+73,ARKK not updating their YTD return on their website. ARKK is now down 50% YTD.,2569,0.96,1651833037.0,1.0,0.0,0.0,0.0
+74,Netflix misses earnings by 73%… what now?,2562,0.89,1674163690.0,0.759,0.0,0.241,-0.2263
+75,Bob Iger has returned as CEO of $DIS,2547,0.94,1668999532.0,1.0,0.0,0.0,0.0
+76,‘This is serious’: JPMorgan’s Jamie Dimon warns U.S. likely to tip into recession in 6 to 9 months,2520,0.88,1665419473.0,0.769,0.0,0.231,-0.4939
+77,Fed hikes interest rates by 0.75 percentage point for second consecutive time to fight inflation,2503,0.96,1658945027.0,0.699,0.161,0.14,0.1027
+78,SEC charges social media influencers in alleged $100 million stock pump and dump scheme,2500,0.98,1671034771.0,0.719,0.0,0.281,-0.5719
+79,Microsoft reportedly plans to invest $10 billion in creator of buzzy A.I. tool ChatGPT,2473,0.96,1673360727.0,1.0,0.0,0.0,0.0
+80,"Consumer prices rose 8.5% in July, less than expected as inflation pressures ease a bit",2452,0.91,1660134784.0,0.714,0.149,0.137,0.0516
+81,"A friend of mine is a long term investor. He showed me one of his investments. He invested $400,000 into QQQ",2443,0.94,1661485908.0,0.849,0.151,0.0,0.4939
+82,YouTube CEO Susan Wojcicki says she’s stepping down,2421,0.95,1676567988.0,1.0,0.0,0.0,0.0
+83,OPEC+ Agrees to Biggest Oil Production Cut Since Start of Pandemic - 2 Million Barrels Per Day,2416,0.93,1664978516.0,0.769,0.107,0.124,-0.0772
+84,Fed's balance sheet spikes by almost $300 billion in a week,2418,0.96,1679012961.0,1.0,0.0,0.0,0.0
+85,BlackRock says get ready for a recession unlike any other and 'what worked in the past won't work now',2393,0.92,1670534765.0,0.751,0.117,0.131,-0.0772
+86,I Tried 4 Paid Services for Stock Selection: Here are The Results for 2021 and 2022,2393,0.97,1661855480.0,1.0,0.0,0.0,0.0
+87,Elon Musk sells 19.5 million Tesla shares worth almost $4 billion,2384,0.96,1667960590.0,0.687,0.313,0.0,0.4767
+88,[Twitter CEO Parag Agrawal] I’m excited to share that we’re appointing @elonmusk to our board!,2380,0.89,1649162962.0,0.727,0.273,0.0,0.5983
+89,China Delays Indefinitely the Release of G.D.P. and Other Economic Statistics,2378,0.97,1666033846.0,1.0,0.0,0.0,0.0
+90,Congress poised to pass marijuana banking reform in lame duck,2356,0.97,1670162922.0,0.625,0.156,0.219,-0.2023
+91,"Jeremy Siegel: ""I think we're gonna have the second-biggest housing price decline since post WWII period over the next 12 months."" Agree?",2357,0.92,1666608868.0,0.894,0.106,0.0,0.3612
+92,"Mercedes EV Breaks 1,000-Kilometer Range Barrier to Outdo Tesla",2345,0.96,1649998259.0,0.842,0.0,0.158,-0.128
+93,GameStop transacts over $1.7M in the first 24 hours of debuting its NFT marketplace,2339,0.86,1657661546.0,1.0,0.0,0.0,0.0
+94,Netflix lays off 300 more employees as revenue growth slows,2282,0.97,1656010194.0,0.776,0.224,0.0,0.3818
+95,Do you hold cr*pto on Coinbase? Your assets could be seized to satisfy creditors in the event of COIN's bankruptcy.,2239,0.9,1652285134.0,0.793,0.207,0.0,0.5719
+96,"PayPal to lay off 2,000 employees in coming weeks, about 7% of workforce",2225,0.97,1675194103.0,1.0,0.0,0.0,0.0
+97,Congress sends first cannabis bill to Biden's Desk,2214,0.97,1668650733.0,1.0,0.0,0.0,0.0
+98,October CPI rose 7.7% over the last 12 months vs the expected 7.9%,2197,0.92,1668087071.0,1.0,0.0,0.0,0.0
+99,Jaw dropping: UK inflation hits highest level in 40 years at 11.1 per cent,2198,0.97,1668585311.0,1.0,0.0,0.0,0.0
+100,"If the Twitter board of directors have a fiduciary duty to do what is best for Twitter shareholders, why are they rejecting Musk's bid?",2158,0.81,1650312627.0,0.745,0.149,0.106,0.296
+101,Disney's Granddaughter Poised to Mount Shareholder Battle Over Disney CEO Bob Chapek’s $32.5 Million Salary,2148,0.97,1656362562.0,0.739,0.114,0.148,-0.1531
+102,Beyond Meat (BYND) COO Arrested for Biting Man’s Nose After College Football Game,2146,0.96,1663660871.0,0.795,0.0,0.205,-0.4767
+103,"Google Cutting 12,000 Jobs in 6% Slash to Global Workforce",2121,0.96,1674210870.0,0.69,0.0,0.31,-0.3818
+104,"Amazon, Alphabet, and a lot of stocks well known are hitting lows, some not seen since March 2020",2105,0.92,1667495000.0,0.714,0.194,0.092,0.25
+105,I cancelled my membership with Motley Fool today. Their marketing made me do it.,2095,0.93,1650650804.0,0.692,0.0,0.308,-0.5994
+106,"Microsoft to cut 11,000 jobs across several divisions",2084,0.96,1673987702.0,0.769,0.0,0.231,-0.2732
+107,They're actually re-opening the Russian Stock Market 24 March,2090,0.96,1648072186.0,1.0,0.0,0.0,0.0
+108,"Elon Musk decides not to join Twitter board, says CEO Parag Agrawal",2089,0.94,1649648028.0,0.854,0.0,0.146,-0.2235
+109,Tesla officially makes its charging standard available to other companies in the U.S.,2076,0.96,1668295064.0,1.0,0.0,0.0,0.0
+110,"Mark Cuban says Elon Musk is 'f--king with the SEC,' thinks Twitter will 'do everything possible not to sell'",2077,0.97,1650092594.0,1.0,0.0,0.0,0.0
+111,"Ford Confirms Layoffs, Says It Is Cutting About 3,000 Jobs",2070,0.96,1661181226.0,0.857,0.0,0.143,-0.128
+112,Can we stop posting about index funds and move towards stocks,2078,0.86,1653188159.0,0.82,0.0,0.18,-0.296
+113,"Carvana lays off 1,500 employees (8% of total) following stock freefall",2064,0.97,1668799605.0,1.0,0.0,0.0,0.0
+114,Shopify company analysis and valuation - 80% down and still expensive? ($SHOP),2054,0.98,1653213543.0,1.0,0.0,0.0,0.0
+115,December jobs blowout: +517k added (vs +187k expected); unemployment rate hits 3.4%,2047,0.93,1675431235.0,0.791,0.0,0.209,-0.4404
+116,"Disney to Begin Layoffs, Targeted Hiring Freeze and Limiting Travel",2046,0.97,1668210914.0,0.882,0.118,0.0,0.0516
+117,Apple Ditches iPhone Production Increase After Demand Falters,2029,0.93,1664329399.0,0.612,0.235,0.153,0.2023
+118,Twitter will be delisted from the New York Stock Exchange on November 8,1989,0.96,1667009758.0,1.0,0.0,0.0,0.0
+119,"Tesla exaggerated driving ranges, supercharger performance, and fuel cost-effectiveness.",1991,0.85,1672853218.0,0.851,0.0,0.149,-0.1027
+120,"Those who were on the internet in 2008, were there this many people talking about a recession before it happened?",1984,0.92,1661911451.0,0.865,0.0,0.135,-0.4215
+121,The Inverse Jim Cramer ETF Has Officially Arrived,1964,0.95,1677789673.0,1.0,0.0,0.0,0.0
+122,Parted with TSLA this week after holding for 5 years. Here's why.,1963,0.83,1671850615.0,1.0,0.0,0.0,0.0
+123,"Historically, every downturn for BIG TECH has been a great buying opportunity.",1957,0.9,1651252085.0,0.566,0.434,0.0,0.7845
+124,"If You Are under 50 -- This is a great time for you. Over 50, don't get depressed, just change your strategy and Invest more.",1946,0.87,1673077761.0,0.764,0.236,0.0,0.7784
+125,Amazon Becomes World’s First Public Company to Lose $1 Trillion in Market Value,1941,0.97,1668037702.0,0.595,0.244,0.161,0.1027
+126,"Fed’s Powell, in blunt remarks at Jackson Hole, says bringing down inflation will cause pain to households and businesses",1940,0.95,1661523929.0,0.845,0.0,0.155,-0.5106
+127,"Balance Sheet is $9,000,000,000,000 and Fractional Reserve Banking Has Ended",1944,0.88,1663204027.0,1.0,0.0,0.0,0.0
+128,CPI 8.2% for the month of September (vs 8.1% expected),1936,0.92,1665664296.0,1.0,0.0,0.0,0.0
+129,"Google misses on expectations as YouTube ad revenue comes up short, stock down 5%",1909,0.95,1666729292.0,0.872,0.0,0.128,-0.2263
+130,Could Elon Musk in effect bankrupt himself if he loses the Tesla Options case and gets Margin called?,1889,0.9,1671580348.0,0.731,0.0,0.269,-0.7096
+131,"Dutch inflation leaps to 17%, boosted by high energy prices",1879,0.98,1664519582.0,0.635,0.365,0.0,0.5574
+132,"Fed hikes its benchmark interest rate by three-quarters of a point, the biggest increase since 1994",1863,0.97,1655316183.0,0.71,0.29,0.0,0.6486
+133,Apple today is a good example why the markets are so hard.,1855,0.93,1666981859.0,0.654,0.211,0.136,0.2579
+134,Top Federal Reserve officials say they misread inflation and now plan to correct the course,1835,0.95,1658928919.0,0.769,0.107,0.124,-0.0772
+135,Sec Yellen: No Federal Bailouts for SVB,1826,0.95,1678635340.0,0.732,0.0,0.268,-0.296
+136,Wall Street is torn on whether the stock market will crash or soar 20% ahead of next week's Fed meeting. Here's where 6 experts stand.,1821,0.93,1663496348.0,0.824,0.0,0.176,-0.5719
+137,"Payrolls increased 528,000 in July, much better than expected in a sign of strength for jobs market",1817,0.91,1659703000.0,0.613,0.387,0.0,0.802
+138,Sen. Warren warns Fed Chair Powell not to 'drive this economy off a cliff',1809,0.92,1655908891.0,0.896,0.0,0.104,-0.1027
+139,The Fed's emergency loan program may inject $2 trillion into the US banking system and ease the liquidity crunch- JPMorgan Chase.,1808,0.94,1678972940.0,0.788,0.104,0.108,-0.0258
+140,"U.S. GDP rose 2.9% in the fourth quarter, more than expected even as recession fears loom",1804,0.93,1674740616.0,0.634,0.0,0.366,-0.7579
+141,"The stock market is the greatest tool to build wealth, if you're patient.",1807,0.88,1651401953.0,0.598,0.402,0.0,0.8126
+142,Finally about to hit my first 100k,1805,0.9,1675002778.0,1.0,0.0,0.0,0.0
+143,These 10 companies face huge tax bills with the Democrats new 15% minimum corporate tax,1808,0.92,1659893546.0,0.859,0.141,0.0,0.3182
+144,After listening to Bloomberg radio all this week I can report to you that the smart people believe the economy is headed south,1796,0.85,1660963635.0,0.886,0.114,0.0,0.4019
+145,The 10y-3m spread finally turned negative today suggesting recession is now imminent,1798,0.92,1666230722.0,0.606,0.0,0.394,-0.7579
+146,JPM and Morgan Stanley miss earnings,1793,0.97,1657799744.0,0.758,0.0,0.242,-0.1531
+147,"Used Truck Prices Plummeting--Inflation Will Fall Quickly, not Slowly",1792,0.91,1655673256.0,1.0,0.0,0.0,0.0
+148,For everyone who asked what the risk was buying Twitter shares ahead of the Elon musk takeover,1776,0.94,1652436570.0,0.777,0.114,0.109,0.0258
+149,Goldman Sachs' profit falls 47%,1757,0.94,1658146733.0,0.58,0.42,0.0,0.4404
+150,Fed Chair Powell says smaller interest rate hikes could start in December,1764,0.95,1669833873.0,0.786,0.214,0.0,0.4588
+151,Microsoft limits Bing A.I. chats after the chatbot had some unsettling conversations,1751,0.96,1676686708.0,1.0,0.0,0.0,0.0
+152,Walmart Lays off hundreds of corporate workers - warning of falling profits going forward,1749,0.97,1659559188.0,0.592,0.172,0.237,-0.0258
+153,"FED Changes Q2 Job Growth Estimate From 1,121,500 Down to 10,500. An Unbelievable 10,600% Difference.",1722,0.87,1671275843.0,0.747,0.253,0.0,0.5267
+154,"US sanctions on Chinese semiconductors ‘decapitate’ industry, experts say",1718,0.94,1665955836.0,1.0,0.0,0.0,0.0
+155,"Adidas said it will propose an annual dividend of $0.74, down from $3.48 per share in 2021, a cut of nearly 80%",1708,0.97,1678319207.0,0.815,0.094,0.09,0.0258
+156,Can someone convince me stocks aren't a ponzi scheme?,1701,0.77,1669495949.0,0.778,0.222,0.0,0.25
+157,"America is running out of baby formula because 3 companies (ABT, RBGLY, and NSRGY) control the market and babies aren’t that profitable",1695,0.91,1652658058.0,0.873,0.127,0.0,0.4404
+158,Meta’s Zuckerberg Sued by D.C. Attorney General Over Cambridge Analytica Data Breach,1689,0.97,1653404059.0,1.0,0.0,0.0,0.0
+159,Too many people here are now bullish on oil -- you know what that means.,1692,0.92,1655042549.0,1.0,0.0,0.0,0.0
+160,Tesla Converts 75% of Bitcoin Bet Back to Fiat Currency,1689,0.95,1658353264.0,1.0,0.0,0.0,0.0
+161,Boeing shares in free fall,1687,0.84,1647854281.0,0.353,0.647,0.0,0.6705
+162,Google announces Bard A.I. in response to ChatGPT,1682,0.95,1675718450.0,1.0,0.0,0.0,0.0
+163,Musk Promises Not To Sell More Tesla Stock—But He’s Broken Vow Before,1684,0.87,1671965913.0,0.637,0.166,0.197,-0.128
+164,Tesla Investors Voice Concern Over Elon Musk’s Focus on Twitter,1651,0.92,1670985601.0,1.0,0.0,0.0,0.0
+165,The Fed Stopped Buying MBS Today.,1640,0.94,1663328911.0,0.725,0.0,0.275,-0.2263
+166,Elon Musk says an IPO of SpaceX’s Starlink satellite internet business is still 3 or 4 years away,1630,0.92,1654698148.0,1.0,0.0,0.0,0.0
+167,Toyota Chief Says ‘Silent Majority’ Has Doubts About Pursuing Only EVs,1631,0.93,1671421269.0,0.82,0.0,0.18,-0.296
+168,Earnings expectations are getting worse! Morgan Stanley warns stocks could fall another 10%,1611,0.94,1653397256.0,0.697,0.0,0.303,-0.5848
+169,Elon Musk sued for $258 billion over alleged Dogecoin pyramid scheme,1614,0.89,1655474245.0,1.0,0.0,0.0,0.0
+170,Ex-Twitter security head claims company misled regulators on bot accounts - reports,1581,0.92,1661264584.0,0.806,0.194,0.0,0.34
+171,"Tiger Global drops 14% in May during the tech sell-off, pushing hedge fund’s YTD losses to over 50%",1580,0.97,1654178798.0,0.863,0.0,0.137,-0.4019
+172,"Massive chunk of $70 strike call options bought in Zendesk YESTERDAY, ONE DAY before buyout and rally. DEFINITELY an insider trade.",1551,0.96,1656096859.0,0.794,0.143,0.063,0.4466
+173,Conditions Are Ripe for a Deep Bear Market,1537,0.86,1653895267.0,1.0,0.0,0.0,0.0
+174,"Fed raises rates a quarter point, expects ‘ongoing’ increases",1533,0.95,1675278130.0,1.0,0.0,0.0,0.0
+175,China quashes hopes of re-opening as health officials announce they will stick 'unswervingly' to zero-Covid policy,1530,0.96,1667664977.0,0.843,0.157,0.0,0.4215
+176,"Fed officials expect higher rates to stay in place, meeting minutes show",1533,0.96,1665598099.0,1.0,0.0,0.0,0.0
+177,U.S. House speaker Pelosi discloses trades in Apple and Microsoft,1519,0.96,1654550647.0,1.0,0.0,0.0,0.0
+178,November CPI rose 7.1% over the last 12 months vs the expected 7.3%,1514,0.93,1670938248.0,1.0,0.0,0.0,0.0
+179,Parent company of Silicon Valley Bank files for bankruptcy,1507,0.98,1679066817.0,1.0,0.0,0.0,0.0
+180,"It seems Facebook is dying, for real this time ... The problem is that the evidence just doesn’t support this point of view.",1502,0.91,1667238475.0,0.795,0.102,0.102,0.0
+181,"Alibaba, Tencent plunge as Hang Seng sinks below 16,000-mark after China’s leadership reshuffle leaves no market reformists on board",1472,0.98,1666591986.0,0.891,0.0,0.109,-0.296
+182,Tesla EV deliveries fall nearly 18% in second quarter following China factory shutdown,1466,0.94,1656801605.0,1.0,0.0,0.0,0.0
+183,"The Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks",1463,0.97,1665756688.0,0.876,0.124,0.0,0.1779
+184,Why is the market rising with CPI at 9.1%?,1463,0.92,1657734723.0,1.0,0.0,0.0,0.0
+185,Apple tells employees it's increasing its annual compensation budget,1461,0.97,1653533312.0,1.0,0.0,0.0,0.0
+186,"The stock market could surge 18% to new highs by year-end as the 2022 bear market is over, Fundstrat says",1455,0.8,1659323170.0,1.0,0.0,0.0,0.0
+187,US tech sector sees highest job cuts in May since Dec. 2020 as slowing demand force companies to cut corners,1438,0.97,1654434526.0,0.746,0.0,0.254,-0.5859
+188,"Hertz to buy up to 65,000 electric vehicles from Tesla rival Polestar",1440,0.95,1649116387.0,1.0,0.0,0.0,0.0
+189,My 5 year old Beat my Returns Again in 2022.,1432,0.95,1672603588.0,1.0,0.0,0.0,0.0
+190,For a reminder: We are just 13% off the ATH on the S&P500,1432,0.9,1651334899.0,1.0,0.0,0.0,0.0
+191,"Elon Musk’s tweets about taking Tesla private in 2018 were false, new court filing says",1428,0.89,1650248873.0,1.0,0.0,0.0,0.0
+192,Intel Cuts Dividend by 66%. Reiterates Forecast.,1423,0.96,1677072094.0,0.732,0.0,0.268,-0.296
+193,Five Chinese state-owned companies to delist from NYSE,1422,0.97,1660308167.0,1.0,0.0,0.0,0.0
+194,"Fed Hikes Rates Half-Point, Will Shrink Assets to Curb Inflation",1419,0.96,1651688871.0,0.841,0.159,0.0,0.1779
+195,Water will out perform your 401K,1417,0.92,1660795454.0,1.0,0.0,0.0,0.0
+196,Fed’s Bullard says rate hikes have had ‘only limited effects’ on inflation so far. Says funds rate upper bound could be closer to 7%.,1413,0.95,1668691943.0,0.924,0.0,0.076,-0.2263
+197,ARK Invest’s Cathie Wood says the U.S. is already in a recession,1401,0.87,1656420701.0,0.781,0.0,0.219,-0.4215
+198,"GameStop CFO is leaving the company, retailer announces layoffs",1397,0.82,1657226903.0,1.0,0.0,0.0,0.0
+199,is Credit Suisse the new Lehmann brothers??,1397,0.93,1664782768.0,0.67,0.33,0.0,0.4515
+200,WSJ: Fed Set to Raise Rates by 0.75 Point and Debate Size of Future Hikes in November,1399,0.95,1666357681.0,1.0,0.0,0.0,0.0
+201,"Breaking: Real GDP decreased at an annual rate of 1.6% in the first quarter of 2022, missing estimate of -1.5%",1393,0.95,1656507313.0,0.896,0.0,0.104,-0.296
+202,My 58-year-old father put his entire 401k into Tesla stock. How do you explain the volatility risk and lack of diversification to a parent?,1384,0.94,1678290244.0,0.827,0.0,0.173,-0.5267
+203,Biden may invoke Defense Production Act to mine more minerals for EV batteries,1381,0.94,1648677478.0,0.889,0.111,0.0,0.128
+204,"Expect more stocks pain if markets keep betting on rate cuts, says the Fed",1375,0.94,1672925722.0,0.675,0.0,0.325,-0.6983
+205,This sub perfectly encapsulates why you can’t beat the market.,1369,0.9,1664877276.0,0.682,0.318,0.0,0.6369
+206,"U.S. inflation rate slows again to 15-month low, PCE shows",1367,0.93,1674826995.0,0.811,0.0,0.189,-0.2732
+207,JP Morgan economists see no Recession seen in future??,1367,0.91,1656598862.0,0.432,0.182,0.386,-0.4266
+208,Coinbase lays off 18% of workforce as executives prepare for recession and ‘crypto winter’,1361,0.98,1655212756.0,0.823,0.0,0.177,-0.4215
+209,Blackstone CEO Schwarzman Collected Record $1.27 Billion in 2022,1352,0.95,1677279650.0,1.0,0.0,0.0,0.0
+210,"JPMorgan shutters website it paid $175 million for, accuses founder of inventing millions of accounts",1345,0.98,1673551269.0,0.854,0.0,0.146,-0.34
+211,"U.S. GDP accelerated at 2.6% pace in Q3, better than expected as growth turns positive",1344,0.94,1666874056.0,0.569,0.431,0.0,0.8442
+212,"Market jump after Fed rate hike is a ‘trap,’ Morgan Stanley’s Mike Wilson warns investors",1337,0.9,1660503725.0,0.903,0.0,0.097,-0.1027
+213,Adani Stocks Drop after Hindenburg Research claims Largest Corporate Fraud in History,1334,0.97,1674624833.0,0.629,0.0,0.371,-0.7096
+214,"UK inflation jumps to a 30-year high of 6.2%, intensifying the cost-of-living crisis (Business Insider)",1332,0.97,1648032322.0,0.76,0.0,0.24,-0.6249
+215,"Biden Proposal Could Lead to Employee Status for Gig Workers, UBER/LYFT crushed -13%",1322,0.96,1665497856.0,0.811,0.0,0.189,-0.4215
+216,Is it finally time to sell $TSLA (from a person that is up 300%),1320,0.86,1667948818.0,1.0,0.0,0.0,0.0
+217,Ark Invest’s Cathie Wood gives up portfolio manager role at two of firm's ETFs,1313,0.96,1663877106.0,1.0,0.0,0.0,0.0
+218,10-year Treasury yield tops 4.2% for first time since 2008,1300,0.97,1666316019.0,0.611,0.389,0.0,0.6249
+219,Apple has accelerated plans to shift some of its production outside China,1298,0.96,1670109237.0,1.0,0.0,0.0,0.0
+220,Sundar Pichai (Google's CEO) has to go and someone more competent should take over.,1282,0.8,1674411068.0,0.834,0.166,0.0,0.3804
+221,Inflation leaves 60% of Americans living paycheck to paycheck,1278,0.95,1664912721.0,1.0,0.0,0.0,0.0
+222,Alphabet (Earnings per share: $1.21 vs $1.28 expected) (Revenue: $69.69 billion vs $69.9 billion expected),1278,0.94,1658866254.0,0.864,0.136,0.0,0.296
+223,Three good stocks for the rest of you life,1273,0.91,1648249186.0,0.734,0.266,0.0,0.4404
+224,FTC likely to file lawsuit to block Microsoft's $69 bln bid for Activision,1279,0.96,1669245946.0,0.696,0.0,0.304,-0.5859
+225,"Nvidia earnings fall short, Q3 forecast misses by $1 billion",1263,0.97,1661374923.0,0.826,0.0,0.174,-0.2263
+226,"BlackRock Announces Partnership With Coinbase Amid Industry Turmoil, Coinbase shares soar 26%",1263,0.94,1659622756.0,0.68,0.15,0.17,-0.0772
+227,Michael Burry sold all but one of his stocks last quarter - excluding his Apple puts,1259,0.91,1660579599.0,1.0,0.0,0.0,0.0
+228,China’s Stimulus Tops $5 Trillion as Covid Zero Hits Economy,1252,0.96,1653040830.0,0.732,0.268,0.0,0.5106
+229,A leaked document from Google shows they believe Wall Street is too bullish on Microsoft’s Azure business,1247,0.91,1671634039.0,0.867,0.0,0.133,-0.3182
+230,Reminder that DCA is the only way - your time is the ultimate cost,1244,0.88,1647719024.0,1.0,0.0,0.0,0.0
+231,"""79% of U.S. buyers would only buy a car if it supported CarPlay""",1244,0.78,1658616763.0,0.827,0.173,0.0,0.3182
+232,Why wouldn't Norfolk Southern Railway Corporations stock plummet after the Toxic Spill ecological disaster they caused?,1240,0.97,1676566243.0,0.785,0.0,0.215,-0.6249
+233,Google CEO defends job cuts in animated town hall as employees demand clarity on process,1241,0.96,1674590782.0,0.652,0.147,0.201,0.0
+234,Credit Suisse receives 50 billion franc loan facility from Swiss National Bank,1238,0.97,1678928766.0,0.809,0.191,0.0,0.3818
+235,Apple Nabs Key Lamborghini Executive to Work on Its Electric Car,1233,0.95,1659351803.0,1.0,0.0,0.0,0.0
+236,"Tesla, Google, Apple, Amazon, Spotify.. what’s the next stock of a decade?",1235,0.87,1648165336.0,0.855,0.145,0.0,0.1779
+237,Apple down 20%+…,1230,0.92,1672779831.0,1.0,0.0,0.0,0.0
+238,Is Tesla's stock valuation going to be tied to the success of Twitter?,1221,0.92,1667879241.0,0.764,0.236,0.0,0.5719
+239,NVDA: another painful lesson in selling,1220,0.9,1677171967.0,0.633,0.0,0.367,-0.4404
+240,Wells Fargo agrees to $3.7 billion settlement with Consumer Financial Protection Bureau over consumer abuses,1215,0.97,1671549560.0,0.619,0.196,0.186,-0.2023
+241,Nvidia pays $5.5 million for allegedly hiding how many gaming GPUs were sold to crypto miners,1198,0.96,1651918855.0,0.872,0.0,0.128,-0.296
+242,Apple's business is simply an earnings machine. ROC comparison: Apple (23.7%) vs. Alphabet (12.3%) vs. Amazon (5.7%),1197,0.95,1674316790.0,0.904,0.096,0.0,0.1779
+243,China Summons Chip Firms for Emergency Talks After US Curbs,1190,0.97,1666267904.0,0.776,0.0,0.224,-0.3818
+244,The Fed's overnight RRP just hit another record - $2.2 Trillion. Where is this leading?,1191,0.95,1655924111.0,1.0,0.0,0.0,0.0
+245,It has been nearly 3 years since the first case of COVID was discovered. What’s the biggest investing lesson you learned since then?,1176,0.93,1669662658.0,1.0,0.0,0.0,0.0
+246,"Facebook scrambles to escape stock’s death spiral as users flee, sales drop",1175,0.93,1664593516.0,0.539,0.102,0.359,-0.6486
+247,Maybe the worst PR week for Elon and Tesla ever ? This is good for TSLA,1172,0.81,1653241319.0,0.65,0.145,0.205,-0.296
+248,Tesla stock pops after plans to enable another stock split,1165,0.95,1648468622.0,1.0,0.0,0.0,0.0
+249,"Rookie Traders Are Calling It Quits, and Their Families Are Thrilled",1150,0.78,1672675898.0,0.775,0.225,0.0,0.4404
+250,"Credit Suisse delays annual report after SEC call, shares drop",1156,0.97,1678362950.0,0.504,0.345,0.151,0.4019
+251,Target posts terrible earnings following Walmart,1148,0.96,1668600234.0,0.617,0.0,0.383,-0.4767
+252,"PSA: Yahoo Finance ""Largest 52 Week Losses"" a graveyard of past Reddit favorites",1135,0.93,1661427911.0,0.539,0.168,0.293,-0.2732
+253,"Advanced Micro Devices Q1 Adj. EPS $1.13 Beats $0.91 Estimate, Sales $5.89B Beat $5.52B Estimate",1140,0.97,1651609018.0,0.875,0.125,0.0,0.25
+254,"Morgan Stanley says SPX could fall a further 23% to 2,900. Do you agree?",1135,0.91,1655903452.0,0.828,0.172,0.0,0.3612
+255,Ripple Effect :: Ford’s job cuts are just the beginning of another EV earthquake,1137,0.94,1661346665.0,0.855,0.0,0.145,-0.296
+256,FCC Threatens to Disconnect Twilio for Illegal Robocalls,1130,0.98,1675046580.0,0.492,0.0,0.508,-0.7351
+257,At what point we can consider Tesla stock bag holding?,1128,0.82,1671118358.0,1.0,0.0,0.0,0.0
+258,why not just make my portfolio 100% VOO?,1134,0.93,1675676177.0,1.0,0.0,0.0,0.0
+259,Tesla stock falls more than 5% after hours as Investor Day falls short on detail,1121,0.94,1677727906.0,1.0,0.0,0.0,0.0
+260,Apple’s expected to post its first revenue decline since 2019 on Thursday,1117,0.97,1675128939.0,1.0,0.0,0.0,0.0
+261,The US Northeast Is Hurtling Toward a Winter Heating Crisis,1122,0.92,1667832785.0,0.519,0.0,0.481,-0.7579
+262,"Payrolls rose 315,000 in August as companies keep up hiring pace",1116,0.94,1662122243.0,1.0,0.0,0.0,0.0
+263,Meta Is Said to Plan Thousands More Layoffs as Soon as This Week,1122,0.96,1678156923.0,1.0,0.0,0.0,0.0
+264,Cathie Wood's Main ETF Closes at Five-Year Low in 78% Drop From Record,1118,0.97,1665800914.0,0.724,0.0,0.276,-0.4939
+265,Amazon Is Said to Plan to Lay Off Thousands of Employees this week,1117,0.97,1668441635.0,0.876,0.124,0.0,0.1779
+266,Do you think TSLA might break below this year’s low at $620?,1116,0.92,1656522866.0,0.84,0.0,0.16,-0.2732
+267,Don't Be Fooled. This Environment has no Historical Precedent,1115,0.94,1650829704.0,0.615,0.192,0.193,-0.0041
+268,"Europe's energy crisis could deliver a $400 million trading profit for Volkswagen from early hedges on natural gas, report says",1109,0.98,1663415816.0,0.564,0.282,0.154,0.34
+269,"Fed officials see smaller rate hikes coming ‘soon,’ minutes show",1107,0.96,1669230191.0,1.0,0.0,0.0,0.0
+270,"US Will Dodge Recession and Markets Will Rally,",1102,0.86,1673626207.0,0.714,0.0,0.286,-0.4215
+271,Netflix lays off 150 employees as the streaming service contends with big subscriber losses,1101,0.96,1652812547.0,0.828,0.0,0.172,-0.4019
+272,"[CNBC] Wholesale prices rose 0.2% in October, less than expected, as inflation eases",1096,0.94,1668519274.0,0.839,0.161,0.0,0.3182
+273,"Peter Lynch: ""If you spend 14 minutes a year on economics, you've wasted 12 minutes.""",1094,0.94,1664629855.0,0.802,0.0,0.198,-0.4939
+274,"Warren and Charlie always talk about ""producing something"", so what exactly do they produce aside from taking money from companies they buy?",1095,0.89,1656775517.0,1.0,0.0,0.0,0.0
+275,Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.,1090,0.96,1673612228.0,0.889,0.0,0.111,-0.128
+276,Netflix is the worst FAANGM investment and it's getting worse,1089,0.9,1673452165.0,0.526,0.0,0.474,-0.802
+277,January CPI rose 6.4% over the last 12 months vs the expected 6.2%,1083,0.93,1676381822.0,1.0,0.0,0.0,0.0
+278,"Chevron announces $75 billion stock buyback, dividend boost",1080,0.96,1674696856.0,0.722,0.278,0.0,0.4019
+279,"Moderna, Merck cancer vaccine combo cuts melanoma recurrence by 44%",1072,0.96,1670945689.0,0.548,0.0,0.452,-0.765
+280,For everyone saying we’re out of the bear market,1065,0.88,1656118580.0,1.0,0.0,0.0,0.0
+281,Elon Musk’s Twitter Buyout Offer Is Turning More Serious,1063,0.93,1650885966.0,0.834,0.0,0.166,-0.1513
+282,"May’s CPI data was 8.6% SPY crashes 50 points for a whole week, June’s was worse at 9.1% but SPY then rebounds and goes higher within a day.",1065,0.88,1658097968.0,0.924,0.0,0.076,-0.2617
+283,I sold all my growth and high risk stocks to tax loss harvest Dec 23-28. And feel horrible as the market has had a massive rally since then.,1058,0.86,1673713363.0,0.677,0.08,0.243,-0.6486
+284,Tesla Falls Most Since June as Quarterly Deliveries Disappoint,1055,0.96,1664822839.0,0.748,0.0,0.252,-0.4019
+285,Invested everything in $QQQ in Nov 2021. Down 30%.,1042,0.79,1652866095.0,1.0,0.0,0.0,0.0
+286,Meta announces Twitter Blue-like paid verification subscription service,1038,0.93,1676831131.0,1.0,0.0,0.0,0.0
+287,Musk and Twitter are being sued to stop their deal.,1042,0.83,1651878939.0,0.804,0.0,0.196,-0.296
+288,I (20m) have been aggressively dumping half my income into the stock market for the past year. Am I just digging myself into a hole?,1034,0.9,1651282042.0,0.813,0.0,0.187,-0.5574
+289,European Stock Market Flash Crash This Morning,1036,0.97,1651491965.0,0.69,0.0,0.31,-0.4019
+290,"Walmart (WMT) just lowered profit outlook for Q2, 2023",1027,0.96,1658780824.0,0.614,0.254,0.132,0.34
+291,Target shares fall as it expects squeezed profits from aggressive plan to get rid of unwanted inventory,1028,0.98,1654603610.0,0.602,0.236,0.162,0.3818
+292,Peloton to Cut 500 More Jobs in Last Bid for Turnaround,1023,0.96,1665060225.0,0.826,0.0,0.174,-0.2732
+293,Can someone eli5 why the fed wants high unemployment and low wage growth to keep inflation in check?,1021,0.81,1667569118.0,0.664,0.115,0.221,-0.34
+294,SVB collapse was driven by 'the first Twitter-fueled bank run',1018,0.86,1678839130.0,0.738,0.0,0.262,-0.4939
+295,"Investing $600K for My 87 YO Father, but . . .",1017,0.9,1672155191.0,1.0,0.0,0.0,0.0
+296,"Amazon is shutting down its telehealth service, Amazon Care",1018,0.95,1661428553.0,0.476,0.524,0.0,0.6808
+297,"Tesla delivers 310,048 electric vehicles in the first quarter, below analyst estimates",1010,0.86,1648917276.0,1.0,0.0,0.0,0.0
+298,Why would anybody buy anything before Jerome opens his mouth next Tuesday/Wednesday? You know it's going lower,1005,0.86,1663259826.0,0.879,0.0,0.121,-0.296
+299,Why Inflation Has Most Likely Peaked according to this BLS Analyst: Joseph Politano,1009,0.86,1652541312.0,1.0,0.0,0.0,0.0
+300,"The S&P 500 is now in an official bear market, according to S&P Dow Jones Indices",989,0.98,1655151133.0,1.0,0.0,0.0,0.0
+301,"Inflation gauge increased 0.4% in February, as expected and up 6% from a year ago",984,0.96,1678797596.0,0.861,0.139,0.0,0.2732
+302,"Welcome To The Recession: Atlanta Fed Slashes Q2 GDP To -1%, Pushing First Half Into Contraction",982,0.95,1656616668.0,0.631,0.146,0.223,-0.1531
+303,Shares of Facebook parent Meta jumped in extended trading on Wednesday after the company reported earnings that topped estimates,980,0.92,1651090792.0,0.891,0.109,0.0,0.296
+304,Taking my L’s and moving on.,977,0.93,1669066576.0,1.0,0.0,0.0,0.0
+305,why is Cathie Wood still relevant?,974,0.87,1675545742.0,1.0,0.0,0.0,0.0
+306,"Retail investors are buying more Tesla stock ($TSLA) than Apple, Meta, Microsoft, Alphabet, Netflix, Nvidia, & AMD *combined* (Source: WSJ)",978,0.91,1674481993.0,1.0,0.0,0.0,0.0
+307,"Disney slashing 7000 jobs, reorganizing",980,0.98,1675894034.0,0.656,0.0,0.344,-0.2732
+308,"Cathy Wood buys 350k shares of coinbase on Thursday, right before the 10% sell off today",974,0.97,1678476232.0,0.872,0.128,0.0,0.296
+309,A deep dive into who actually buys Teslas,973,0.86,1653257250.0,1.0,0.0,0.0,0.0
+310,"The ten worst years for the 60/40 portfolio, and where we are now.",974,0.97,1657891265.0,0.745,0.0,0.255,-0.6249
+311,"Is there any bullish argument for Twitter? I kinda see it as a ""boomer stock"" that is actually losing money.",970,0.84,1657385204.0,0.758,0.0,0.242,-0.6249
+312,The Official Academic Study saying 186 banks at at risk of failure. Saved you a click.,972,0.94,1679104905.0,0.594,0.139,0.267,-0.3818
+313,“Tim in the market is better than timing the market”. Is it true?,966,0.79,1649008716.0,0.659,0.341,0.0,0.6908
+314,"Bank of England raises UK interest rate by 0.75 points, now at highest level in 33 years",946,0.95,1667478136.0,0.842,0.158,0.0,0.4588
+315,Bank of England Launches Emergency Bond-Buying Scheme,946,0.99,1664364526.0,0.698,0.0,0.302,-0.3818
+316,Netflix is down ~20% since it was reported that Bill Ackman sold his position on April 21,939,0.94,1652193787.0,1.0,0.0,0.0,0.0
+317,The GME dividend stock split and you.,937,0.87,1648772879.0,1.0,0.0,0.0,0.0
+318,"In the 2040's and beyond, November 2021 will be remembered as the pop of the Second Tech Bubble.",935,0.85,1668558692.0,1.0,0.0,0.0,0.0
+319,"Key Fed inflation measure rose 0.6% in January, more than expected",929,0.95,1677247806.0,1.0,0.0,0.0,0.0
+320,"FED chair Jerome Powell said ""...it is very premature to think about or talk about pausing rate hikes...we have a long way to go...""",935,0.97,1667434960.0,1.0,0.0,0.0,0.0
+321,"$NVDA slashes earnings guidance, stock down -8% pre-market",937,0.96,1659964107.0,0.795,0.0,0.205,-0.2023
+322,"Morgan Stanley warns stock market rally will likely be short lived S&P 500 could fall 18% from current levels, Morgan Stanley warns",929,0.89,1654049331.0,0.877,0.0,0.123,-0.2023
+323,Salesforce to cut staff by 10%,927,0.97,1672835549.0,0.704,0.0,0.296,-0.2732
+324,Saudi Arabia Becomes The First Nation To Recognize The Microsoft Acquisition Of Activision Blizzard,927,0.84,1661120067.0,1.0,0.0,0.0,0.0
+325,Investors beware: Fed Chair Jerome Powell's comments this week could spark a major tech sell-off,929,0.91,1678201149.0,0.872,0.128,0.0,0.2263
+326,Tech Stocks Are Absurdly Cheap Now: putting my money where my mouth is,926,0.85,1650515580.0,1.0,0.0,0.0,0.0
+327,Twitter wins first round as Judge sided with them in case against Musk as trial will start in October.,923,0.9,1658250921.0,0.829,0.171,0.0,0.5719
+328,Stocks are rising despite US durable-goods orders sink 2.2% and break the winning streak...Are we missing something here?,929,0.93,1648130925.0,0.741,0.157,0.102,0.296
+329,Biden to hit China with broader curbs on U.S. chip and tool exports,919,0.95,1662950594.0,1.0,0.0,0.0,0.0
+330,Anyone familiar with sex toys companies listed on the stock exchange?,920,0.88,1649325406.0,1.0,0.0,0.0,0.0
+331,Stocks are down a lot of right now and will go back up when the economy is better. Does that mean we should just buy high-growth tech stocks,921,0.89,1662225502.0,0.9,0.1,0.0,0.4404
+332,TWTR closes below its price prior to Elon Musk announcing he was a shareholder,921,0.96,1652731877.0,1.0,0.0,0.0,0.0
+333,"Forgot to report miniscule gains, what are the consequences?",905,0.92,1649618540.0,0.769,0.231,0.0,0.34
+334,Those who faced 2008’s recession. What preparation helped you to ride the storm?,908,0.94,1668969995.0,0.811,0.0,0.189,-0.4215
+335,"How will a possible TikTok ban impact META, SNAP and other companies banned in China?",906,0.91,1668359886.0,0.645,0.0,0.355,-0.765
+336,The stock market in general is relatively new. What’s going to happen in 100 years when people start investing?,904,0.78,1653850743.0,1.0,0.0,0.0,0.0
+337,"Amazon to Lay Off Over 17,000 Workers, More Than First Planned",898,0.97,1672875621.0,0.855,0.145,0.0,0.1779
+338,Bloomberg: US Producer Prices Fall for First Time Since Early in Pandemic,898,0.97,1660222631.0,1.0,0.0,0.0,0.0
+339,Theoretically what would happen if fed raised rates by 5.0% at once this week?,894,0.92,1655018325.0,1.0,0.0,0.0,0.0
+340,Why is whole europe doing way worse than USA for years?,892,0.92,1665340835.0,0.763,0.0,0.237,-0.4767
+341,US Jobless claims rise to new 8-month high,885,0.96,1660245504.0,1.0,0.0,0.0,0.0
+342,Bloomberg: Credit Market Cracks Widen as Distressed Debt Nears $650 Billion,890,0.92,1672320302.0,0.503,0.164,0.333,-0.4019
+343,"Tesla plans reduced Shanghai production through January, down 5% in premarket trading",885,0.93,1672147453.0,1.0,0.0,0.0,0.0
+344,Visa earnings and revenue beats estimates. Dividend increased by 20%,882,0.98,1666791819.0,0.811,0.189,0.0,0.2732
+345,"Apple (AAPL.US) continues to increase financial services, and its subsidiaries will provide loans in the future",886,0.96,1654740141.0,0.867,0.133,0.0,0.3182
+346,I invested 75k at market close today! Thoughts?,879,0.82,1650661656.0,1.0,0.0,0.0,0.0
+347,"Disney ($DIS) subscriber growth blows past estimates, as company beats on top and bottom line",871,0.81,1660163455.0,0.747,0.253,0.0,0.5267
+348,U.S. Senate votes to move ahead on chip bill to compete with China,871,0.98,1658285534.0,1.0,0.0,0.0,0.0
+349,"Meta and Alphabet lose dominance over US digital ads market as TikTok, Amazon, Microsoft and Apple take market share.",874,0.95,1672095453.0,0.641,0.244,0.115,0.25
+350,Interesting thing I noticed about META,870,0.9,1670422722.0,0.597,0.403,0.0,0.4019
+351,"IT'S NOT ABOUT APPL, MSFT, GOOGL, AMD and TSLA",868,0.77,1659891632.0,1.0,0.0,0.0,0.0
+352,AAPL is at 52-week low!,866,0.88,1671738101.0,0.626,0.0,0.374,-0.3382
+353,Anyone holding cash have a FOMO for the recent rally in the market?,865,0.91,1648503074.0,1.0,0.0,0.0,0.0
+354,Would a Chinese invasion of Taiwan bring the Tech stocks to their knees?,863,0.85,1676912487.0,1.0,0.0,0.0,0.0
+355,Everyone saying HD (Home Depot) is a good buy may be a sign it's actually not a good buy,863,0.91,1648745877.0,0.707,0.293,0.0,0.7003
+356,What if I bought Google stocks after July 1 and before July 15?,854,0.9,1657056771.0,1.0,0.0,0.0,0.0
+357,The US Treasury Yield Curve Recession Indicator is Flashing Red,855,0.9,1669058399.0,0.635,0.143,0.222,-0.25
+358,"Today at 2:02pm VIX spiked to 30.18 and halted for 5 minutes. VIX, the volatility index got halted because it got too volatile. What?",848,0.97,1663802767.0,1.0,0.0,0.0,0.0
+359,"Monthly CPI declines .1% in December, now 6.5% YoY",842,0.92,1673530349.0,1.0,0.0,0.0,0.0
+360,I SOLD AAPL :(,833,0.85,1660765551.0,0.408,0.0,0.592,-0.4404
+361,"Be honest, how many of you are ACTUALLY beating the market this year?",835,0.91,1649233596.0,0.636,0.191,0.173,0.0772
+362,What was the most Ridiculous Valuation of a Stock in your lifetime?,832,0.89,1668746242.0,0.782,0.0,0.218,-0.4201
+363,"Is it ""difficult"" for the U.S. economy to make a soft landing? Goldman Sachs: 35% chance of recession within two years",830,0.94,1650283766.0,0.789,0.088,0.123,-0.2023
+364,The Stock market is now entering its best three-month period of the calendar year.,827,0.87,1664624100.0,0.756,0.244,0.0,0.6369
+365,JPMorgan Chase wants to disrupt the rent check and money order with its payments platform for landlords and tenants,822,0.92,1667221612.0,1.0,0.0,0.0,0.0
+366,SNAP crashes -20% AH after release of Q3 earnings,818,0.96,1666296934.0,1.0,0.0,0.0,0.0
+367,"Fed’s Kashkari ""surprised by markets’ interpretation"" and says officials are ""a long way"" from backing off inflation fight.",817,0.93,1659273902.0,0.728,0.146,0.126,-0.1531
+368,Amazon to Buy Roomba-Maker IRobot for $1.65 Billion,816,0.97,1659708077.0,0.805,0.195,0.0,0.1779
+369,Will the American consumer considerably slow their spending in the next 1-2 quarters?,815,0.94,1669314228.0,1.0,0.0,0.0,0.0
+370,So here we are 3 years after. The 21st of February 2020 the markets started to decline following the bad news coming from China about COVID,800,0.95,1677008432.0,0.873,0.0,0.127,-0.5423
+371,Will SVB survive the day?,808,0.94,1678452919.0,1.0,0.0,0.0,0.0
+372,"If not Tesla, then what else fancies you in the electric car market?",800,0.89,1669599545.0,1.0,0.0,0.0,0.0
+373,"Tesla produces 100,000 cars a month in Giga Shanghai for the first time ever.",798,0.83,1670268347.0,1.0,0.0,0.0,0.0
+374,SNAP CEO Evan Spiegel preannounces a miss of current quarter guidance just a month after previous earnings report,795,0.97,1653342366.0,0.904,0.0,0.096,-0.1531
+375,Is Anyone Actually Bullish Right Now?,787,0.91,1663433864.0,1.0,0.0,0.0,0.0
+376,Twitter Counters a Musk Takeover With a Plan to Thwart the Bid,777,0.95,1650047035.0,1.0,0.0,0.0,0.0
+377,Robinhood margin interest rate has increased from 4.25% to 5% from July 28,774,0.87,1659201034.0,0.683,0.317,0.0,0.6249
+378,Costco down almost 10% at open today.,778,0.97,1652881679.0,1.0,0.0,0.0,0.0
+379,Alphabet earnings are out – here are the numbers,768,0.97,1651003687.0,1.0,0.0,0.0,0.0
+380,3M Co. may face more than $100 billion in losses and potential bankruptcy due to faulty earplugs,767,0.87,1660700738.0,0.75,0.0,0.25,-0.6124
+381,Buying the Stock-Market Dip Is Backfiring This Year,753,0.8,1664116047.0,1.0,0.0,0.0,0.0
+382,Are we finally into the fear stage?,747,0.91,1664674022.0,0.652,0.0,0.348,-0.4939
+383,Google is a better long term hold than Microsoft.,747,0.71,1654480096.0,0.707,0.293,0.0,0.4404
+384,The stock market hasn’t priced in a recession just yet... the S&P 500 could fall another 23%,745,0.84,1655841403.0,0.843,0.0,0.157,-0.4215
+385,Please stop recommending overcomplicated combinations of ETFs to new investors. It doesn't have to be that hard!,750,0.94,1652076704.0,0.693,0.114,0.193,-0.1511
+386,"If you bought Facebook at IPO and held, you would have made only 171% gains",743,0.9,1666853998.0,0.854,0.146,0.0,0.34
+387,Apple to source chips from Arizona starting in 2024,736,0.96,1668574559.0,1.0,0.0,0.0,0.0
+388,"The chip boom likely over, as Micron says it’s in a ‘downturn’",731,0.95,1656678889.0,1.0,0.0,0.0,0.0
+389,"Tesla cuts prices in China, other Asian markets as sales falter",725,0.94,1672999848.0,0.82,0.0,0.18,-0.296
+390,BREAKING - Goldman Sachs no longer expects the Fed to hike rates as the March meeting,725,0.92,1678677220.0,0.864,0.0,0.136,-0.296
+391,Roku announced they are unsure how much they will be able to recover from assets with Silicon Valley Bank,715,0.98,1678490492.0,0.821,0.082,0.097,-0.0772
+392,"A pretty grim question, but when news of Warren Buffett passes away, will BRKA/B take a massive hit?",716,0.91,1647788958.0,0.759,0.114,0.127,-0.0644
+393,How to Read (and understand) the 4 Financial Statements:,714,0.97,1677026734.0,1.0,0.0,0.0,0.0
+394,Twitter Musk deal on hold... he likely thinks its too expensive,711,0.93,1652444225.0,1.0,0.0,0.0,0.0
+395,Nvidia Vs AMD Vs Intel,709,0.94,1659442136.0,1.0,0.0,0.0,0.0
+396,"One year ago, I wrote a bear case for AMD. Let's review.",713,0.79,1648964185.0,1.0,0.0,0.0,0.0
+397,Cathie Wood Goes On Coinbase Buying Spree as Wall Street Sours,707,0.94,1669085648.0,1.0,0.0,0.0,0.0
+398,Microsoft shares rise on better-than-expected earnings and revenue,704,0.92,1674594593.0,0.761,0.239,0.0,0.296
+399,"Tesla has diverged from the broader market in the past 6 months, leading to strong outperformance. What gives?",707,0.91,1663676729.0,0.829,0.171,0.0,0.5106
+400,Nvidia files mixed shelf offering of up to $10 bln,706,0.96,1677623873.0,1.0,0.0,0.0,0.0
+401,Why do people think AMZN will keep growing?,707,0.86,1667170403.0,0.805,0.195,0.0,0.1779
+402,Nvidia seeks approval to double authorized shares to 8 billion,705,0.96,1649456360.0,0.569,0.431,0.0,0.6486
+403,Just Stop Trading,705,0.89,1652377280.0,0.476,0.0,0.524,-0.296
+404,Etsy Sellers Start Strike Over Rising Transaction Fees,701,0.96,1649691699.0,0.824,0.0,0.176,-0.128
+405,Household Debt Surges By $394 B - Largest In 20 Years,701,0.93,1676611536.0,0.762,0.0,0.238,-0.3612
+406,Netflix Q3 earnings beat with streamer adding 2.4M subscribers,702,0.95,1666124438.0,1.0,0.0,0.0,0.0
+407,Why mad when META is down 73% while AMD with 32% growth is down by 60%,699,0.91,1667863631.0,0.707,0.131,0.162,-0.1531
+408,"Nvidia hits P/E of 140, double the P/E they had during the combined covid & crypto peak when the stock was trading at 300 dollars.",700,0.96,1678977707.0,1.0,0.0,0.0,0.0
+409,Today Jim Cramer on CNBC told readers to sell growth stocks such as FAANG,693,0.91,1650068383.0,0.833,0.167,0.0,0.3818
+410,Yahoo Finance News has the best headlines,696,0.92,1664295752.0,0.588,0.412,0.0,0.6369
+411,"During the crypto crash in 2018, Nvidia had 4 straight quarters of negative YoY revenue growth",694,0.95,1655099079.0,0.502,0.205,0.292,-0.4404
+412,Reddit Survival Guide: Common Misconceptions About Investing,693,0.93,1658452550.0,1.0,0.0,0.0,0.0
+413,China to End Big Tech Regulation and Support Big Tech,691,0.88,1651219158.0,0.769,0.231,0.0,0.4019
+414,Fed raises interest rates half a point to highest level in 15 years,690,0.97,1671044583.0,0.786,0.214,0.0,0.4588
+415,Nvidia revenue falls 17% but data center growth remains strong,680,0.97,1668634983.0,0.505,0.495,0.0,0.8338
+416,Where would we be if Covid never happened?,676,0.87,1670024234.0,1.0,0.0,0.0,0.0
+417,BlackRock: ‘We’re not buying the dip’,682,0.96,1655215894.0,1.0,0.0,0.0,0.0
+418,Teslas become the best selling cars in California,678,0.85,1660178020.0,0.625,0.375,0.0,0.6369
+419,Google is panicking! Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight,667,0.89,1674337122.0,0.605,0.126,0.269,-0.4753
+420,Anybody Actually Up Since November of Last year?,674,0.91,1670734085.0,1.0,0.0,0.0,0.0
+421,"Stock Investing Advice is completely worthless. There's no ""Pro-Tips"" that work in every scenario",669,0.86,1675526138.0,0.68,0.0,0.32,-0.6865
+422,Bank of England's Bailey to Pension Funds: 'You've Got Three Days Left; You've Got to Get This Done' -WSJ,671,0.97,1665515321.0,1.0,0.0,0.0,0.0
+423,How SVB got wrecked by a concept that all first-year economics students are taught — bond yields and seasonal cash flow patterns,665,0.89,1678730598.0,1.0,0.0,0.0,0.0
+424,"Rivian sinks after the EV maker recalls 13,000 vehicles for potential steering-safety issue",664,0.97,1665412856.0,1.0,0.0,0.0,0.0
+425,Intel stock hits a 5 year low - $33.92,669,0.97,1661188568.0,0.704,0.0,0.296,-0.2732
+426,Etsy warns sellers of delay in processing payments due to Silicon Valley Bank collapse,671,0.97,1678567205.0,0.615,0.0,0.385,-0.7096
+427,U.S. Debt Ceiling - Will it mirror the 2011 crash or nothing burger?,666,0.88,1673818647.0,0.658,0.0,0.342,-0.6369
+428,Lululemon Athletica shares fall as it says it expects margin squeeze in fourth quarter setting holiday guidance below expectations,659,0.95,1673274141.0,0.776,0.224,0.0,0.5994
+429,Credit Suisse shares tank after Saudi backer rules out further assistance,658,0.96,1678882778.0,0.652,0.348,0.0,0.5859
+430,Is there any reason *not* to buy GOOG at this price?,660,0.9,1658600810.0,1.0,0.0,0.0,0.0
+431,Twitter says it will sue Elon Musk after he sends letter seeking to end $44B acquisition deal,652,0.96,1657319290.0,1.0,0.0,0.0,0.0
+432,Friendly PSA: Whether you have lost or won this year - the fact you are even investing puts you ahead of 99% of most other people.,658,0.74,1652837163.0,0.705,0.221,0.074,0.6808
+433,"TSLA plant in Monterrey, Mexico confirmed",652,0.91,1677605713.0,1.0,0.0,0.0,0.0
+434,Bull Rally or Bull Trap?,655,0.91,1660170360.0,0.635,0.0,0.365,-0.3182
+435,My company offered me a 15% discount on buying it's stock. It's called GOCO. Should I take the bite?,648,0.92,1656097092.0,1.0,0.0,0.0,0.0
+436,Why GOOGL is no longer as innovative as before and what the future holds for it?,644,0.79,1672058902.0,0.733,0.152,0.115,0.1779
+437,Tesla goes over $1000,641,0.9,1648047638.0,1.0,0.0,0.0,0.0
+438,"Apple already decimated Meta’s ad-tech empire. Now, it’s homing in on Facebook’s advertisers, too.",640,0.93,1662046794.0,1.0,0.0,0.0,0.0
+439,Tesla Semi doubts,636,0.79,1669946246.0,0.476,0.0,0.524,-0.296
+440,Anybody else feeling suspicious of the last week’s pump ?,633,0.85,1647727941.0,0.636,0.136,0.227,-0.25
+441,FYI: You likely have free access to Morningstar and other investment research resources through your local library.,631,0.95,1656074769.0,0.72,0.28,0.0,0.7034
+442,"37yo with $100K in savings, should I be buying index funds in this dip, and how?",626,0.85,1655421433.0,1.0,0.0,0.0,0.0
+443,Give me a company and I will make a Discounted Cash Flow (DCF) model.,628,0.94,1654601141.0,0.893,0.107,0.0,0.0516
+444,2023 Stock Market Dates you should know,616,0.97,1675260192.0,1.0,0.0,0.0,0.0
+445,The Collapse of Cathie Wood and Ark ETF,618,0.9,1661694747.0,0.686,0.0,0.314,-0.4939
+446,USD Inflation rose an additional 0.3% in the month of April (according to newly released CPI Report),617,0.96,1652272357.0,1.0,0.0,0.0,0.0
+447,Robert Reich Says Fed Putting Onus Of Fighting Inflation On Wrong Group: 'It's Bad Economics ... Insane Politics',620,0.83,1673279883.0,0.543,0.0,0.457,-0.8957
+448,The uranium story just got more bullish (US Seeks $4.3 Billion for Uranium to Wean Off Russia Supply),618,0.95,1654779766.0,1.0,0.0,0.0,0.0
+449,Apple's Popularity With Gen Z Poses Challenges for Google/Android,618,0.88,1677026804.0,0.577,0.423,0.0,0.5267
+450,Any other noobs feel frozen in cash?,614,0.89,1659226968.0,1.0,0.0,0.0,0.0
+451,2022 Stock Market Dates you should know,612,0.97,1656516720.0,1.0,0.0,0.0,0.0
+452,Morgan Stanley: Treat Tesla like it's a Chinese tech stock until at least 2030 because of how much profit it makes there(50%). Do you agree?,615,0.92,1666698307.0,0.654,0.346,0.0,0.8625
+453,"Google CEO says he hopes to make company 20% more efficient, hints at potential cuts",607,0.96,1662563469.0,0.597,0.293,0.109,0.5709
+454,This gotta be illegal,603,0.73,1661696408.0,0.455,0.0,0.545,-0.5574
+455,Traditional “Value” Stocks are arguably some of the most unsafe picks in a rising interest rate environment,603,0.84,1656953696.0,0.737,0.158,0.105,0.25
+456,Charlie Munger says BYD is so far ahead of Tesla in China it’s almost ridiculous,603,0.87,1676501319.0,0.864,0.0,0.136,-0.2975
+457,Apple earnings are out — here are the numbers,597,0.93,1675373564.0,1.0,0.0,0.0,0.0
+458,Thinking about cashing out for down payment on my first apartment,594,0.9,1656959393.0,1.0,0.0,0.0,0.0
+459,"AMD stock now at a ‘reasonable valuation’ after near-50% pullback, Morgan Stanley says",592,0.95,1655995679.0,1.0,0.0,0.0,0.0
+460,Reddit ETF progress from Jan 2021 to Jan 2023,593,0.96,1674842071.0,0.741,0.259,0.0,0.4215
+461,It’s Okay.Todays 3% Loss Was Less Than Yesterdays 3% Loss…,594,0.93,1652133462.0,0.796,0.0,0.204,-0.3182
+462,Turkey Halts Trading in Stock Market after $35 Billion Wipeout,590,0.97,1675858101.0,1.0,0.0,0.0,0.0
+463,"Intel Q2 EPS $0.29 Misses $0.69 Estimate, Sales $15.30B Miss $17.92B Estimate",591,0.97,1659038703.0,0.741,0.0,0.259,-0.3612
+464,Union Pacific (UNP) CEO to step down as hedge fund presses for change,581,0.96,1677459741.0,1.0,0.0,0.0,0.0
+465,"Unwinding of the $9trillion feds balance sheet (QuAntitative tightening), housing market and bonds scenarios?",578,0.94,1663005055.0,1.0,0.0,0.0,0.0
+466,Amazon Provides Cloud Technology for a Chinese Military Company,583,0.93,1664202354.0,0.805,0.195,0.0,0.1779
+467,Down over (-45%) on over 100 shares of NVDIA Should I be worried?,584,0.88,1656699291.0,0.694,0.153,0.153,0.0
+468,Microsoft announces new A.I.-powered Bing homepage that you can chat with,582,0.94,1675797798.0,1.0,0.0,0.0,0.0
+469,Meta's $9.1 R&D spend in Q3 2022,583,0.9,1667075022.0,1.0,0.0,0.0,0.0
+470,Don't fight the fed advice,574,0.91,1662033658.0,0.647,0.353,0.0,0.2924
+471,Robinhood Introduces Investor Index to Track its Customers Top 100 Stocks,582,0.89,1662776688.0,0.847,0.153,0.0,0.2023
+472,Elon Musk sold around $4 billion worth of Tesla shares as he moved to buy Twitter,583,0.94,1651203174.0,0.773,0.227,0.0,0.4767
+473,Bill Ackman's Pershing Square has exited the entirety of its 3.1m share stake in NFLX today,582,0.97,1650496922.0,0.872,0.128,0.0,0.296
+474,"The red flag that preceded a halving of global equities in 2000 and 2007 is back, warns Citi",573,0.85,1660044861.0,0.92,0.0,0.08,-0.1027
+475,Fed Rate Increases Are Squeezing Consumer-Finance Companies,579,0.93,1670789752.0,1.0,0.0,0.0,0.0
+476,"Legit game changer tonight: BOJ surprises with yield cap adjustment; S&P futures tank, US/Japan yields & Yen surge higher",573,0.93,1671509295.0,0.899,0.101,0.0,0.2263
+477,"I'm retired, income mostly SS, bought BYND at $93 and need advice from knowledgeable folks",570,0.91,1659974332.0,1.0,0.0,0.0,0.0
+478,Let's talk about Credit Suisse.,567,0.89,1664727073.0,0.606,0.394,0.0,0.3818
+479,Is it now a good time to open a position in APPL with $170+?,573,0.83,1661104210.0,0.791,0.209,0.0,0.4404
+480,Schwab CEO says firm is seeing significant inflows even as stock gets hit,564,0.94,1678842629.0,0.87,0.13,0.0,0.2023
+481,What's fundamentally different about Tesla 2019 vs Tesla 2022?,567,0.8,1672210286.0,1.0,0.0,0.0,0.0
+482,Intel Earnings Q4,569,0.95,1674771553.0,1.0,0.0,0.0,0.0
+483,Should I invest in Meta or Amazon?,565,0.72,1667156835.0,0.746,0.254,0.0,0.1779
+484,Confused as to when the recession is actually here. When can we say Ok we are in a recession?,560,0.89,1674063579.0,0.581,0.091,0.328,-0.6908
+485,"FAANG workers, can you outline how the tech correction has impacted your RSU portion of your income?",560,0.91,1667134540.0,1.0,0.0,0.0,0.0
+486,Apple and Meta Gave User Data to Hackers Who Used Forged Legal Requests,557,0.96,1648670832.0,0.889,0.111,0.0,0.128
+487,"Home Depot misses on revenue, issues muted outlook",562,0.95,1676981361.0,0.787,0.0,0.213,-0.2263
+488,CHEQ study shows up to 12% of all traffic originating from Twitter is made up of bots.,556,0.97,1654003434.0,1.0,0.0,0.0,0.0
+489,"Jim Cramer says ""The Bear Market is Over""",562,0.91,1648319071.0,1.0,0.0,0.0,0.0
+490,"Tesla recalls 362,758 vehicles, says full self-driving beta software may cause crashes",550,0.84,1676571941.0,1.0,0.0,0.0,0.0
+491,GME 2022 Q3 Earnings,546,0.84,1670448901.0,1.0,0.0,0.0,0.0
+492,"CEO Lisa Su confirmed that AMD has been “undershipping” chips for a while now to keep CPU, GPU prices elevated",554,0.88,1675340947.0,1.0,0.0,0.0,0.0
+493,Thoughts on buying PLTR after its bloody $1.1B loss last week?,554,0.83,1662577641.0,0.634,0.0,0.366,-0.6369
+494,"What companies have the most trustworthy, consistent, and successful management in your view and why? And which have the worst?",543,0.95,1659384281.0,0.583,0.276,0.141,0.6063
+495,"October Non-farm payrolls were 261,000 with an unemployment rate of 3.7%",544,0.95,1667565493.0,0.775,0.0,0.225,-0.4404
+496,"*U.S. 2-YEAR TREASURY YIELD CLIMBS TO 3.48%, HIGHEST SINCE NOV. 2007",546,0.95,1661751604.0,0.798,0.202,0.0,0.368
+497,"Tesla has built 3 million vehicles, a third of those in China, Elon Musk says",545,0.9,1660552166.0,1.0,0.0,0.0,0.0
+498,What stock today do you think is similar to GE or Sears? i.e. a “solid” large cap that everyone believed there was a promising future for.,546,0.96,1650133678.0,0.895,0.105,0.0,0.4019
+499,The market can stay irrational longer than you can stay solvent,536,0.88,1659560973.0,0.806,0.0,0.194,-0.34
+500,"Forget gasoline. Diesel is even more important to the modern supply chain, and we have a crisis.",539,0.95,1651954631.0,0.616,0.099,0.284,-0.6003
+501,Could someone explain how trading desks at banks differ from hedge funds?,540,0.97,1663586103.0,1.0,0.0,0.0,0.0
+502,"AMD-Powered Frontier Supercomputer Breaks the Exascale Barrier, Now Fastest in the World",539,0.96,1653941111.0,0.88,0.0,0.12,-0.128
+503,"Meta delays setting team budgets as Facebook parent plans fresh round of layoffs, Financial Times reports",540,0.97,1676159386.0,0.867,0.133,0.0,0.3182
+504,Walmart is using its thousands of stores to battle Amazon for e-commerce market share,541,0.95,1654212054.0,0.629,0.223,0.149,0.0772
+505,8 Reasons To Never Bet Against the US,542,0.84,1648258133.0,1.0,0.0,0.0,0.0
+506,"Only 18% of Americans plan to increase their stock market investments this year, according to a survey.",534,0.91,1653495486.0,0.867,0.133,0.0,0.3182
+507,Do you think fall 2022 was the bottom or are we in for more red?,531,0.86,1674515944.0,1.0,0.0,0.0,0.0
+508,Truss cuts go bust; the UK steps away from the edge of fiscal disaster with policy reversal,537,0.95,1664780774.0,0.704,0.0,0.296,-0.743
+509,U.S. stock futures rise after Biden hints that China tariffs could be reconsidered,531,0.95,1653308984.0,1.0,0.0,0.0,0.0
+510,What is ONE idea or mindset you hold onto with dear life when making investment decisions? Here is mine:,535,0.91,1649590954.0,0.874,0.126,0.0,0.3818
+511,My portfolio is currently down 65%. Started to buy shares in June ‘20. Is there anyone else in the same situation? Predictions?,535,0.88,1674847238.0,0.891,0.109,0.0,0.3736
+512,"WSJ: More Auto Payments Are Late, Exposing Cracks in Consumer Credit",521,0.96,1676765441.0,0.657,0.19,0.153,0.128
+513,"On firmly red days like these, what advice would you give to newcomers?",530,0.92,1655130646.0,0.828,0.172,0.0,0.3612
+514,"Melvin Capital to shut after heavy losses on meme stocks, market slump",519,0.96,1652928273.0,0.803,0.0,0.197,-0.4019
+515,The market is pricing in a 92% chance of a 25bps hike in February,521,0.94,1673546436.0,0.846,0.154,0.0,0.25
+516,Apple cuts iPhone 14 plus production less than 2 weeks after debut,515,0.91,1666118861.0,0.82,0.0,0.18,-0.296
+517,"Twitter halted, pending news (Bloomberg)",518,0.95,1650912850.0,1.0,0.0,0.0,0.0
+518,Berkshire Hathaway posts quarterly loss in Q3/2022,511,0.95,1667658054.0,0.723,0.0,0.277,-0.3182
+519,"Apple is gaining on Facebook and Google in online ads after iOS privacy change, report shows",518,0.95,1662440037.0,0.843,0.157,0.0,0.4215
+520,John Carmack leaving META. “… we constantly self-sabotage and squander effort … our organization is operating at half the effectiveness …”,511,0.96,1671313020.0,1.0,0.0,0.0,0.0
+521,Musk has closed his deal with Twitter,512,0.92,1666920095.0,1.0,0.0,0.0,0.0
+522,Goldman Sachs insiders are fuming over their CEO's use of private jets to promote his side hustle as a DJ - Is this a real problem?,509,0.93,1663915642.0,0.69,0.09,0.221,-0.5859
+523,How far do you think MSFT and AAPL could fall?,509,0.92,1651954420.0,1.0,0.0,0.0,0.0
+524,Microsoft earnings are out – here are the numbers,510,0.98,1651003916.0,1.0,0.0,0.0,0.0
+525,I Traded 3 Opposing Strategies for 60 Days in 2022 Here’s How it Went,502,0.92,1672120931.0,1.0,0.0,0.0,0.0
+526,"Powell Sees More ""Pain"" Ahead, Admits 'Soft Landing' Is 'Out Of Fed's Control'",507,0.96,1652389989.0,0.83,0.17,0.0,0.3535
+527,When Buying the Dip Doesn’t Work: An Analysis of the Dot-com Crash,502,0.85,1652252917.0,0.803,0.0,0.197,-0.4019
+528,Warren Buffett says Berkshire owns 9.5% of Activision Blizzard shares in merger arbitrage bet,503,0.97,1651362548.0,0.855,0.145,0.0,0.296
+529,China is making the yuan more international by opening up its bond market - but economists say the currency faces a big test,502,0.92,1661171381.0,1.0,0.0,0.0,0.0
+530,Ford halts production and shipments of its electric F-150 Lightning due to potential battery issue,501,0.97,1676397555.0,1.0,0.0,0.0,0.0
+531,Tesla earnings are out — here are the numbers,501,0.93,1674680972.0,1.0,0.0,0.0,0.0
+532,"Justice Department backs antitrust bill targeting Apple, Amazon, Google",497,0.96,1648539169.0,0.488,0.415,0.098,0.5994
+533,Any ideas how these dudes turned 100K into 30 million in 4 years?,489,0.87,1667837171.0,1.0,0.0,0.0,0.0
+534,Anybody else just buying MSFT?,496,0.9,1652655576.0,1.0,0.0,0.0,0.0
+535,"Payrolls rose 233,000 in December vs. Estimates of 200,000",487,0.93,1673012521.0,1.0,0.0,0.0,0.0
+536,The Fed won't slow its rate hikes because the economy is still strong enough to take more tightening,487,0.93,1660309528.0,0.837,0.163,0.0,0.5106
+537,Effect of twitters collapse on TSLA?,488,0.79,1668753387.0,0.61,0.0,0.39,-0.4939
+538,Big Tech earnings are about to determine the direction of the market,486,0.92,1658824803.0,1.0,0.0,0.0,0.0
+539,Domino’s Pizza $DPZ is rolling out a fleet of 800 custom-branded 2023 Chevy Bolt electric vehicles $GM,484,0.95,1669034880.0,1.0,0.0,0.0,0.0
+540,A consistent financial powerhouse- CVS beats earnings estimates again and raises guidance,483,0.9,1659524951.0,1.0,0.0,0.0,0.0
+541,Intel Plans to Cut Thousands of Jobs in Face of PC Slowdown,478,0.97,1665527599.0,0.84,0.0,0.16,-0.2732
+542,"Here is why Alzheimer's Drugs are Failing(Biogen, BIIB)",480,0.96,1658660137.0,1.0,0.0,0.0,0.0
+543,"Google was rapidly hiring during COVID, but now is looking to cut personnel and reduce expenses as recession looms. Impact on stock price?",476,0.93,1663993469.0,0.708,0.0,0.292,-0.8047
+544,Revlon (REV) Is Preparing to File for Bankruptcy,478,0.97,1655082070.0,1.0,0.0,0.0,0.0
+545,GM offers buyouts to ‘majority’ of their U.S. salaried workers,476,0.96,1678374328.0,1.0,0.0,0.0,0.0
+546,"Just a friendly reminder that nobody knows what is going to happen, hang in there!",469,0.93,1651423204.0,0.788,0.212,0.0,0.5411
+547,Chill on thinking every financial firm is out to get you and practice thinking critically,474,0.8,1656606725.0,1.0,0.0,0.0,0.0
+548,"Sony is crushing Microsoft in gaming. Xbox hardware -13%, Services -12%, Revenue -13%, PS hardware +46%, Services +19%, Revenue +53%",475,0.88,1675390500.0,0.884,0.0,0.116,-0.3612
+549,Elon Musk Tesla TSLA Tweet Trial Will Stay in San Francisco,471,0.91,1673652629.0,1.0,0.0,0.0,0.0
+550,Amazon now generates about $38 billion in ad revenue (third-largest share of the U.S. digital ad market),469,0.96,1672943628.0,0.794,0.206,0.0,0.4404
+551,A word of advice to new users to this sub,468,0.91,1663126604.0,1.0,0.0,0.0,0.0
+552,Intel cutting employee compensation to preserve cash as it struggles with a rapid drop in revenue and earnings,462,0.97,1675224255.0,0.697,0.0,0.303,-0.6249
+553,"Bigger picture. If the Fed is unwinding $9 trillion, shouldn't the market slowly bleed to 2018 price levels at least?",462,0.89,1652049147.0,1.0,0.0,0.0,0.0
+554,Microsoft earnings are out – here are the numbers,460,0.96,1658865844.0,1.0,0.0,0.0,0.0
+555,CHIPS act passed - why $INTC still down?,454,0.82,1659121049.0,1.0,0.0,0.0,0.0
+556,Goldman Sachs sees ‘high probability’ of OPEC cut — and expects oil prices to hit $110 next year,460,0.95,1669731017.0,0.884,0.0,0.116,-0.2732
+557,Bill Gates Explains Why His Tesla Short Position Shouldn't Hurt Elon Musk,453,0.84,1654397245.0,0.798,0.202,0.0,0.4168
+558,Amazon takes $7.6 billion loss on Rivian stake after Rivian’s stock plunge,449,0.97,1651177791.0,0.714,0.121,0.164,-0.1531
+559,Bill Gates short position pays dividends as Musk sells 8.5 Billion in Tesla stock to buy Twitter,454,0.72,1651331575.0,1.0,0.0,0.0,0.0
+560,Why I Love GOOG and GOOGL,451,0.83,1673911483.0,0.488,0.512,0.0,0.6369
+561,Jeff Bezos keeps a 16-year-old framed magazine as a ‘reminder’ that Amazon’s most profitable service AWS was once just a ‘risky bet’,450,0.89,1653233998.0,0.849,0.151,0.0,0.4927
+562,Costco Wholesale Corporation. (COST) Stock Review 01/15/2023,443,0.94,1673792819.0,1.0,0.0,0.0,0.0
+563,Vanguard Group swooped in and knocked Elon Musk off his top shareholder perch at Twitter,450,0.91,1649993389.0,0.886,0.114,0.0,0.2023
+564,Bloomberg: US Mortgage Rates Plunge to 5.3% in Biggest Drop Since 2008,447,0.93,1657205735.0,0.84,0.0,0.16,-0.2732
+565,"A Summary Of What Is Happening In The UK With Pension Funds, Gilts, and Bank of England",448,0.97,1664555023.0,1.0,0.0,0.0,0.0
+566,Palantir (PLTR) investor class action lawsuit,448,0.9,1663730622.0,0.725,0.0,0.275,-0.2263
+567,Metaverse off to ominous start after VR headset sales shrank in 2022,442,0.92,1672262081.0,0.821,0.0,0.179,-0.34
+568,"Bank of England hikes interest rates by 50 basis points to 1.75%,warning the UK economy faces a long recession",439,0.95,1659619063.0,0.734,0.138,0.128,0.0516
+569,This week is going to be interesting!,444,0.95,1658105561.0,0.667,0.333,0.0,0.4574
+570,Twitter Board Unanimously Approves Elon Musk Takeover,439,0.92,1656024624.0,0.69,0.31,0.0,0.4019
+571,Cargo Shipowners Cancel Sailings as Global Trade Flips From Backlogs to Empty Containers,439,0.97,1664823964.0,0.743,0.0,0.257,-0.4215
+572,The first green week in 7 weeks,443,0.94,1653661953.0,1.0,0.0,0.0,0.0
+573,Polish stocks seem like a literal goldmine if you are looking for insane volumes of undervalued equities. And I can't see what the catch is.,445,0.85,1661841873.0,0.802,0.095,0.103,-0.0516
+574,"I think the rally is temporary and an overreaction. The Fed ""news"" today was bad news.",435,0.83,1653530843.0,0.714,0.0,0.286,-0.6369
+575,NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2023,437,0.96,1677103406.0,1.0,0.0,0.0,0.0
+576,Meta repurchased shares at the exact wrong time in FY 2021. Now is the time for aggressive stock buybacks.,437,0.87,1672750541.0,0.699,0.096,0.205,-0.3612
+577,This week might the most important week of the year!,431,0.95,1658718703.0,0.791,0.209,0.0,0.3367
+578,This time is really different - The Market is way oversold,428,0.79,1650761045.0,1.0,0.0,0.0,0.0
+579,DraftKings stock surges after sports-betting company boosts outlook,436,0.92,1676651457.0,0.753,0.247,0.0,0.3182
+580,The Fed vowed to crush inflation with higher rates. Then the stock market rallied. Here’s why. (It’s not good news)- Interesting read,433,0.9,1659082069.0,0.752,0.0,0.248,-0.6444
+581,There is no reason for a rally,432,0.72,1658165344.0,0.694,0.0,0.306,-0.296
+582,"If you invested $10k ten years ago in Berkshire B, SCHD, or VOO...the results may surprise you",432,0.88,1660328951.0,0.884,0.116,0.0,0.2732
+583,inputting each individual transaction in your taxes is ridiculous and tedious. This needs to be changed for small time investors,429,0.89,1649214320.0,0.884,0.0,0.116,-0.3612
+584,Amazon warehouse unionized,429,0.88,1648935367.0,0.541,0.459,0.0,0.1779
+585,Apple (AAPL.US) plans to increase production in India and Vietnam,424,0.94,1653272301.0,0.796,0.204,0.0,0.3182
+586,Inflation Horror Show. The Fed has got a problem on its hands.,428,0.9,1677307637.0,0.584,0.0,0.416,-0.7506
+587,"Meta Announces Hiring Freeze, Warns Employees of Restructuring",424,0.96,1664477074.0,0.698,0.14,0.163,-0.0516
+588,"European Central Bank surprises markets with larger-than-expected rate hike, its first in 11 years",421,0.98,1658413694.0,0.872,0.128,0.0,0.2263
+589,"On June 29th the USA Gross Domestic Product (Third Estimate), 1st Quarter will be released",425,0.96,1656184510.0,0.819,0.0,0.181,-0.4767
+590,Can anyone explain to me how door dash was unable to make a profit during Covid?,416,0.95,1652225330.0,0.828,0.172,0.0,0.4404
+591,AMD to Buy Cloud-Services Provider Pensando for $1.9 Billion,419,0.96,1649095931.0,1.0,0.0,0.0,0.0
+592,Long term investing in a triple leverage S&P 500 ETF,418,0.91,1659778524.0,1.0,0.0,0.0,0.0
+593,Investors Lose Trillions As Founders Run 16 Stocks Into The Ground,422,0.92,1670626481.0,0.787,0.0,0.213,-0.4019
+594,$GOOGL vs $AMZN -You can only choose 1 to buy right now. Which do you choose? Why did you choose that & why didn’t you choose the other?,415,0.86,1661045580.0,1.0,0.0,0.0,0.0
+595,"Walmart (WMT) agrees to purchase 4,500 EV's from Canoo (GOEV) shares up 100% in premarket.",412,0.94,1657633920.0,0.765,0.235,0.0,0.4588
+596,Fed funds futures traders now see a 21% chance of a 75-basis-point hike in June,420,0.97,1655054702.0,0.857,0.143,0.0,0.25
+597,Carvana stock analysis and valuation - On a highway to bankruptcy?,414,0.92,1676234920.0,1.0,0.0,0.0,0.0
+598,GOOG split 20:1,411,0.93,1651106526.0,1.0,0.0,0.0,0.0
+599,"Amazon built like our pandemic-fueled shopping spree would never end. Now it has, and the company's shrinking.",411,0.9,1672845131.0,0.781,0.219,0.0,0.4939
+600,"Apple is turning your iPhone into fintech service taking on PayPal, Affirm and more",402,0.93,1654627445.0,1.0,0.0,0.0,0.0
+601,"Paul T Jones says ""You should be 100% cash now!""",405,0.83,1651627483.0,1.0,0.0,0.0,0.0
+602,The Fed’s preferred inflation gauge rose 4.9% in April in a sign that price increases could be slowing,405,0.92,1653658659.0,1.0,0.0,0.0,0.0
+603,Tesla Reports Q2 Earnings,395,0.94,1658347837.0,1.0,0.0,0.0,0.0
+604,"Looking back at 08', what do you wish you'd done?",403,0.9,1663499984.0,0.769,0.231,0.0,0.4019
+605,Remember my fellow accumulators. John Bogle said we should want a 50% market crash!,397,0.77,1647910137.0,0.719,0.085,0.196,-0.4003
+606,"Have rental car prices increased 800%? how is Avis Budget CAR at $320 now, when in 2019 it was trading under $40. When short?",399,0.93,1651524651.0,0.903,0.097,0.0,0.3527
+607,"Tesla is about to deliver their first Tesla Semi December 1st ,2022",395,0.83,1666285558.0,1.0,0.0,0.0,0.0
+608,"SoFI, they seem like just another bank",394,0.91,1660932622.0,0.706,0.294,0.0,0.3612
+609,Ford suspends F-150 Lightning production another week after battery fire,391,0.98,1677255681.0,0.789,0.0,0.211,-0.34
+610,Can we all agree this stock market is resilient?,388,0.74,1673041821.0,0.762,0.238,0.0,0.3612
+611,The Fear of Crashing,393,0.83,1665312859.0,0.484,0.0,0.516,-0.4939
+612,"I have 20,000 USD and I want you opinion on what I should do with it",396,0.82,1649105760.0,0.902,0.098,0.0,0.0772
+613,Salesforce shares jump 13% after software company issues full-year forecast that beat estimates,395,0.93,1677705577.0,0.845,0.155,0.0,0.296
+614,The $300bn Google-Meta advertising duopoly is under attack,391,0.91,1663530136.0,0.693,0.0,0.307,-0.4767
+615,Why December CPI numbers are likely going to show deflation and why annualized inflation will rapidly approach 0 in 2023.,392,0.81,1671445056.0,1.0,0.0,0.0,0.0
+616,"If META ad revenue is expected to decline, why do I feel like I am seeing more ads on its platforms?",385,0.84,1666452271.0,0.878,0.122,0.0,0.3612
+617,AMD misses but still ekes out 29% revenue growth,388,0.96,1667335023.0,0.591,0.287,0.122,0.4497
+618,Wells Fargo mortgage originations down 90% YoY - Mortgage staff brace for layoffs,386,0.95,1667801094.0,0.846,0.154,0.0,0.25
+619,Microsoft beats quarterly revenue estimates on cloud boost,381,0.96,1666729385.0,0.722,0.278,0.0,0.4019
+620,"The doomsday scenario won’t happen. We will go down and then go back up, that’s just how cycles work.",378,0.76,1664616092.0,0.826,0.0,0.174,-0.5859
+621,July inflation “sharply declined”,381,0.85,1659973955.0,1.0,0.0,0.0,0.0
+622,I bought 47 Tesla shares 2 weeks ago. Is now a good time to sell?,382,0.73,1675128940.0,0.662,0.338,0.0,0.6249
+623,"Apple scales back self-driving car, delays launch to 2026",380,0.96,1670369184.0,1.0,0.0,0.0,0.0
+624,"Amazon set to begin new round of layoffs affecting over 18,000 people",383,0.94,1674050578.0,0.866,0.134,0.0,0.1779
+625,"Inflation in Europe rises to record high, expected more ECB interest rate hikes (50bp),7.2 % France,9.3 % Germany, 9.9%, Italy 9.9%,UK 10.1%",383,0.97,1678282841.0,0.853,0.147,0.0,0.507
+626,Alibaba shares rally 6% after massive earnings beat,374,0.88,1677155362.0,0.761,0.239,0.0,0.296
+627,Paramount (PARA) - The Cheapest Stock in the Market,378,0.83,1667588063.0,1.0,0.0,0.0,0.0
+628,SOFI earnings,374,0.93,1675081970.0,1.0,0.0,0.0,0.0
+629,CPI tomorrow yet barely any news at all,377,0.95,1668017478.0,1.0,0.0,0.0,0.0
+630,"FDIC Auction for SVB Said to Be Underway, Final Bids Due Sunday",373,0.98,1678637925.0,1.0,0.0,0.0,0.0
+631,You can bet against Jim Cramer with a new ETF from the fund manager who already shorts Cathie Wood’s stock picks,368,0.93,1665215574.0,1.0,0.0,0.0,0.0
+632,Let’s speculate on 100 baggers,373,0.88,1649425024.0,1.0,0.0,0.0,0.0
+633,Rate My Portfolio - r/Stocks Quarterly Thread June 2022,379,0.99,1654074010.0,1.0,0.0,0.0,0.0
+634,"Friend with Netflix is down more than 40%, I don't see Netflix recovering soon, my friend wants to sell, what's your best strategies?",369,0.9,1651654547.0,0.642,0.358,0.0,0.891
+635,"The stocks with the biggest pre-market moves, PepsiCo, Intel, Philips, etc. Is that what you dreamed of last night?",368,0.93,1665580226.0,1.0,0.0,0.0,0.0
+636,"It's Official, Gold has Passed ARKK on Its 5 Year returns",371,0.93,1652296630.0,1.0,0.0,0.0,0.0
+637,"Tesla cuts prices in U.S., Germany in pivot to drive sales",367,0.95,1673588970.0,0.82,0.0,0.18,-0.296
+638,Apple Q4 EPS $1.29 Beats $1.26 Estimate,371,0.96,1666902699.0,1.0,0.0,0.0,0.0
+639,AMD Earnings - beats on sales and profit but warns of a 10% revenue decline in Q1,371,0.97,1675200555.0,0.785,0.118,0.097,0.09
+640,Is this a really good time to buy Amazon stock?,371,0.82,1673400776.0,0.589,0.411,0.0,0.5984
+641,Nvidia to Slow Hiring Amid Inflationary Environment,364,0.95,1653257909.0,1.0,0.0,0.0,0.0
+642,"Boeing to hire 10,000 workers in 2023 as it ramps up production",358,0.97,1674861952.0,1.0,0.0,0.0,0.0
+643,"Advanced Micro Devices Non-GAAP EPS of $1.05 beats by $0.01, revenue of $6.55B beats by $20M",357,0.96,1659471361.0,0.882,0.118,0.0,0.25
+644,My stock portfolio is down 46% and still going. I’m holding on for dear life. Depression?,363,0.89,1652109290.0,0.69,0.128,0.182,-0.2732
+645,What happens to the TWTR shares people own if Twitter agreed to Musk's 100% offer?,361,0.93,1649949249.0,0.751,0.249,0.0,0.5106
+646,If Charles Schwab or any brokerage were to go bankrupt what would happen to my stock portfolio with them?,359,0.92,1678567815.0,0.833,0.0,0.167,-0.5574
+647,EPA sends General Notice of Potential Liability to Norfolk Southern ($NSC) for Ohio derailment,362,0.97,1676251066.0,0.878,0.0,0.122,-0.2023
+648,Whatever happened to Cathie Wood? Never hear about her anymore.,357,0.82,1651076682.0,1.0,0.0,0.0,0.0
+649,Tesla Faces U.S. Criminal Probe Over Self-driving Claims,355,0.83,1666813823.0,0.673,0.0,0.327,-0.5267
+650,The US Senate has passed the CHIPS Act,356,0.94,1658947205.0,1.0,0.0,0.0,0.0
+651,Fed critic Jeremy Siegel now says money supply indicates Fed in danger of doing too much,357,0.89,1653424093.0,0.718,0.0,0.282,-0.6705
+652,"Tiger 21, an exclusive club of investors, says the ultra rich are doubling down on stocks",355,0.82,1660295008.0,0.733,0.267,0.0,0.6249
+653,"Nvidia falls short on guidance, stock down 9% after hours",355,0.95,1653511083.0,1.0,0.0,0.0,0.0
+654,Coinbase down (another) -15% AH after disappointing earnings,355,0.95,1652214549.0,0.686,0.0,0.314,-0.4939
+655,Google's CEO personally taking control of the company's A.I. strategy,357,0.95,1671813990.0,1.0,0.0,0.0,0.0
+656,TSMC Sales Soar 44% in Another Sign of Resilient Tech Demand,348,0.94,1657281487.0,0.87,0.0,0.13,-0.128
+657,Twitter stock falls after weighs security review of Musk ventures,349,0.91,1666390194.0,0.789,0.211,0.0,0.34
+658,ARK Invest doubles down on holdings despite recession by releasing very bullish projections: ZOOM to 1500usd & TSLA to 4300usd by 2026.,355,0.92,1655296132.0,0.896,0.104,0.0,0.3252
+659,What if recession never comes? JPM analyst calls for S&P ATHs by year end,350,0.81,1655292216.0,0.823,0.0,0.177,-0.4215
+660,BBBY (Bed Bath & Beyond) - What Gives?,353,0.86,1653500190.0,1.0,0.0,0.0,0.0
+661,"U.S. Accuses Google of Abusing Monopoly in Ad Technology, what the long term out look for GOOG?",348,0.94,1674664068.0,0.735,0.0,0.265,-0.6597
+662,Collection of energy market articles suggest deepening Winter '22 energy crisis for Europe,349,0.91,1666533634.0,0.546,0.23,0.224,-0.2263
+663,Microsoft to cut television advertising campaigns to save money as concerns grow that consumer spending is weakening.,345,0.98,1654887682.0,0.648,0.148,0.204,-0.0516
+664,"Target profit hit hard by high costs, inventory problems and markdowns",349,0.96,1652870303.0,0.533,0.193,0.273,-0.0516
+665,Apple Enters a Bear Market Today,348,0.9,1652377630.0,1.0,0.0,0.0,0.0
+666,Reddit ETF progress from Jan 2021 to Apr 2022,346,0.97,1650649509.0,0.741,0.259,0.0,0.4215
+667,Fed's Powell: 'Soft landing' chances have narrowed,342,0.95,1667418236.0,0.769,0.231,0.0,0.2023
+668,Apple S&P500 influence more than entire energy or staples industry combined,345,0.93,1654711956.0,0.809,0.191,0.0,0.3321
+669,About the Hk and Chinese IPOs that went up nd down several thousand % How are they not restricted and investigated immediately.,347,0.93,1662017366.0,0.902,0.098,0.0,0.2924
+670,Is it possible the market might not recover for 15+ years like Japan?,340,0.8,1666614148.0,0.828,0.172,0.0,0.3612
+671,Can stocks really ever go to ZERO?,337,0.81,1659124682.0,1.0,0.0,0.0,0.0
+672,Robinhood ($HOOD) is now trading under book value,342,0.81,1655128840.0,0.745,0.255,0.0,0.34
+673,Ford lunches the F150 Lightning on Tuesday Ford first mass production electric pickup.,340,0.92,1650942332.0,1.0,0.0,0.0,0.0
+674,"Core PCE, Fed's preferred gauge of inflation, rises to 4.9% YoY in August, above expectations of 4.7%",339,0.96,1664542011.0,1.0,0.0,0.0,0.0
+675,Volkswagen announces five-year $193 billion investment plan as electrification gathers pace,341,0.95,1678793469.0,1.0,0.0,0.0,0.0
+676,Annual inflation up to 9.9% in the Euro area (up to 10.9% in the EU),342,0.96,1666170880.0,1.0,0.0,0.0,0.0
+677,What recession? Atlanta Fed GDPNow tracker boosts Q3 Estimate to 2.6% from 1.6%,343,0.84,1662062811.0,0.683,0.143,0.174,-0.128
+678,How significant is the Warner Discovery Stock plummet?,340,0.93,1661226964.0,0.795,0.205,0.0,0.2023
+679,Elon Musk's Twitter Buyout Is Reportedly in 'Serious Jeopardy',338,0.89,1657291971.0,0.614,0.0,0.386,-0.5267
+680,Robinhood Lays Off 9% Of Full-Time Employees After Decline In Users,341,0.97,1651014089.0,1.0,0.0,0.0,0.0
+681,"Elon Musk says he’s ‘not sure’ he’ll be able to buy Twitter after $43 billion bid, teases a plan B",343,0.88,1649959071.0,0.885,0.0,0.115,-0.296
+682,"IBM tops revenue estimates, says it will cut 3,900 jobs",340,0.96,1674699240.0,0.597,0.246,0.157,0.296
+683,"Euro zone inflation falls for first time in 17 months, bolstering hopes for smaller ECB hike",334,0.94,1669807940.0,0.843,0.157,0.0,0.4215
+684,"WeTrade updates financial info for proposed $50M IPO, uplisting to Nasdaq",334,0.96,1657975746.0,1.0,0.0,0.0,0.0
+685,HOOD: Robinhood to extend trading to 7am-8pm with intent to eventually allow 24/7.,335,0.7,1648571053.0,0.753,0.247,0.0,0.3818
+686,Help me understand the appeal of BRKB,331,0.87,1661086431.0,0.69,0.31,0.0,0.4019
+687,CPI 8.5% for the month of July,330,0.94,1660134737.0,1.0,0.0,0.0,0.0
+688,[Forbes] Are we in a recession?,325,0.85,1671474124.0,0.588,0.0,0.412,-0.4215
+689,Which has more debt - Home Depot or Lowes? The answer is not so obvious.,329,0.9,1661609191.0,0.823,0.0,0.177,-0.4201
+690,Advice on ARKK position,326,0.85,1656267151.0,1.0,0.0,0.0,0.0
+691,"Okta hack puts thousands of businesses on high alert - Okta lists Peloton, Sonos, T-Mobile, and the FCC among its 15,000 customers",323,0.96,1647961482.0,0.901,0.099,0.0,0.296
+692,Time to sell NVDA?,328,0.82,1663335823.0,1.0,0.0,0.0,0.0
+693,"10 Tesla Investors Lose $132.5 Billion From Musk's Twitter Fiasco. Interestingly, Musk sold $3.5 billion in tsla stock from 12-14.",328,0.86,1671120995.0,0.661,0.105,0.233,-0.5106
+694,SoFi stock surges after earnings beat as company lifts forecast,325,0.94,1667302884.0,1.0,0.0,0.0,0.0
+695,"To the people who think we're in a bull trap or a fake rally, can you describe your ideal conditions?",329,0.86,1660406848.0,0.63,0.143,0.227,-0.25
+696,Another massive rally in this Bear Market - Where do we go from here?,319,0.85,1668279472.0,1.0,0.0,0.0,0.0
+697,Stay Calm During These Times,320,0.88,1650999788.0,0.635,0.365,0.0,0.3182
+698,"With Opec+ cutting their daily oil production, how do you believe the Fed will act?",317,0.93,1664987013.0,0.903,0.0,0.097,-0.128
+699,"Facebook-parent Meta planning more layoffs, to impact thousands: Report",322,0.96,1677085543.0,1.0,0.0,0.0,0.0
+700,Tried seekingalpha and investing pro services for 1 year...,321,0.81,1671906454.0,1.0,0.0,0.0,0.0
+701,US moves closer to recalling Tesla’s self-driving software,314,0.88,1654977959.0,1.0,0.0,0.0,0.0
+702,FTC sues to block Microsoft’s acquisition of game giant Activision,319,0.97,1670526810.0,0.756,0.0,0.244,-0.4404
+703,Microsoft Pushes AI-Powered Tools for Telecoms. It’s Targeting Amazon.,316,0.92,1677518528.0,0.825,0.175,0.0,0.1779
+704,MSFT GOOGL and AAPL are still all beating the market!,315,0.8,1667506225.0,0.732,0.0,0.268,-0.5093
+705,Coinbase stock analysis and valuation - Is it going bankrupt? $COIN,319,0.86,1660484750.0,0.714,0.0,0.286,-0.5574
+706,"Fed minutes show strong commitment to 0.50% rate hikes in June, July",316,0.97,1653504330.0,0.629,0.371,0.0,0.7096
+707,What are YOUR long term holds? And is a large percentage of it tech- why or why not?,317,0.93,1648667804.0,1.0,0.0,0.0,0.0
+708,"First Republic Bank ($FRC) - $30bn in aid, is it now a buy?",315,0.85,1679058713.0,1.0,0.0,0.0,0.0

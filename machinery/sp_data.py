@@ -18,7 +18,7 @@ tickers.Security.to_csv('input/tickers_fullname.csv', header = True, encoding="u
 index=False)
 
 # Get the data for this tickers from yahoo finance
-ticker_data = yf.download(tickers.Symbol.to_list(),'2021-1-1','2022-12-19', auto_adjust=True)['Close']
+ticker_data = yf.download(tickers.Symbol.to_list(),'2022-01-01','2023-03-18', auto_adjust=True)['Close']
 #ticker_data.head()
 
 
